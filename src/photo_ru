@@ -183,9 +183,6 @@
              >
          </a>
 
-
-
-<!-- 
          <a href="../media/photo/active/lyogenkaya_03700-01.jpg">
              <img 
                  src=     "../media/photo/active/lyogenkaya_03700-01.jpg",
@@ -194,7 +191,7 @@
                  data-description=""
              >
          </a>
- -->
+
          <a href="../media/photo/active/zhuravleva_41800-01.jpg">
              <img 
                  src=     "../media/photo/active/zhuravleva_41800-01.jpg",
@@ -238,7 +235,7 @@
                  data-description=""
              >
          </a>
-<!-- 
+ 
          <a href="../media/photo/active/gaydamak_47200-01.jpg">
              <img 
                  src=     "../media/photo/active/gaydamak_47200-01.jpg",
@@ -247,7 +244,7 @@
                  data-description=""
              >
          </a>
- -->
+
          <a href="../media/photo/active/zhekov_36500-04.jpg">
              <img 
                  src=     "../media/photo/active/zhekov_36500-04.jpg",
@@ -256,7 +253,7 @@
                  data-description=""
              >
          </a>
-<!-- 
+ 
          <a href="../media/photo/active/kolodyazhnaya_49256-01.jpg">
              <img 
                  src=     "../media/photo/active/kolodyazhnaya_49256-01.jpg",
@@ -265,15 +262,7 @@
                  data-description=""
              >
          </a>
- -->
-         <a href="../media/photo/active/ushakova_99999-01.jpg">
-             <img 
-                 src=     "../media/photo/active/ushakova_99999-01.jpg",
-                 data-big="../media/photo/active/ushakova_99999-01.jpg"
-                 data-title="Nadezhda V. Ushakova"
-                 data-description=""
-             >
-         </a>
+
          <a href="../media/photo/active/ushakova_99999-02.jpg">
              <img 
                  src=     "../media/photo/active/ushakova_99999-02.jpg",
@@ -293,16 +282,7 @@
          </a>
 
 
-<!-- 
-         <a href="../media/photo/active/gp_svechkarev-desnenko-fedorchenko.jpg">
-             <img 
-                 src=     "../media/photo/active/gp_svechkarev-desnenko-fedorchenko.jpg",
-                 data-big="../media/photo/active/gp_svechkarev-desnenko-fedorchenko.jpg"
-                 data-title="Igor V. Svechkarev, Vladimir A. Desnenko, and Alexey V. Fedorchenko"
-                 data-description=""
-             >
-         </a>
- -->
+
          <a href="../media/photo/active/gp_visit_karol-flachbart.jpg">
              <img 
                  src=     "../media/photo/active/gp_visit_karol-flachbart.jpg",
