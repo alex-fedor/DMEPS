@@ -1,0 +1,104 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ru/home.html">Начало</a></li>
+        <li><a href="../ru/staff.html">Кадры</a></li>
+        <li>
+            <a href="../ru/research.html">Исследования</a>
+            <ul>
+                <li><a href="../ru/g_calculations.html">Calculations</a></li>
+                <li><a href="../ru/g_pressure.html">Pressure</a></li>
+                <li><a href="../ru/g_squid.html">SQUID</a></li>
+                <li><a href="../ru/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ru/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ru/publications.html">Публикации</a></li>        
+        <li><a href="../ru/dissertations.html">Диссертации</a></li>
+        <li><a href="../ru/collaboration.html">Сотрудничество</a></li>
+        <li><a href="../ru/photo.html">Фото</a></li>
+        <li><a href="../ru/contacts.html" class="active">Контакты</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../en/contacts.html">EN</a></li>
+        <li><a href="../ua/contacts.html">UA</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<div class="page-contacts">
+
+<h2>Наши контакты</h2>
+<hr width="25%" size="1" noshade color="black">
+
+<center>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<b><a href="../media/files/cv/cv_grechnev.pdf" target="blank">Геннадий Е. Гречнев</a></b><br>
+		<i>grech<span id="fela">eghataruslpost</span>nev@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+		<i>тел.: +380(57)340-50-11</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6701326962" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+     	<a href="http://orcid.org/0000-0003-0547-2309" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
+     	<a href="https://scholar.google.com/citations?user=qWu54x4AAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+     	<a href="http://www.researcherid.com/rid/E-7781-2011" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a>
+	</td>
+	<td>
+		Заведующий Отделом,<br>
+		Заместитель директора ФТИНТ,<br>
+		Руководитель <a href="../ru/g_calculations.html" target="blank">группы</a>,<br>
+		Профессор,<br>
+		Доктор физ.-мат. наук 
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<b><a href="../media/files/cv/cv_empty.pdf" target="blank">Галина А. Звягина</a></b><br>
+		<i>zvya<span id="fela">eghataruslpost</span>gina@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+		<i>тел.: +380(57)341-09-59</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6602421261" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=oXitEoIAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Заместитель заведующего Отделом,<br>
+		Старший научный сотрудник,<br>
+		Кандидат физ.-мат. наук
+	</td>
+</tr>
+
+</table>
+</center>
+<br>
+<br>
+<br>
+
+<p>
+<u>Как нас найти?</u><br>
+Наши GPS координаты <a href="https://maps.google.com/?hl=en&q=loc:50.039670,36.220474" target="blank">N50.039670,E36.220474</a><br>
+Из аеропорта: автобус № 119 до остановки "23 Августа".<br>
+От железнодорожного вокзала: метро, доехать до станции "Спортивная", перейти на станцию "Метростроителей" и проехать до станции "23 Августа".
+Вы можете спросить у прохожих  на улице "Институт низких температур".
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+</div>

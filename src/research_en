@@ -1,0 +1,110 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../en/home.html">Home</a></li>
+        <li><a href="../en/staff.html">Staff</a></li>
+        <li>
+            <a href="../en/research.html" class="active">Research</a>
+            <ul>
+                <li><a href="../en/g_calculations.html">Calculations</a></li>
+                <li><a href="../en/g_pressure.html">Pressure</a></li>
+                <li><a href="../en/g_squid.html">SQUID</a></li>
+                <li><a href="../en/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../en/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../en/publications.html">Publications</a></li>        
+        <li><a href="../en/dissertations.html">Dissertations</a></li>
+        <li><a href="../en/collaboration.html">Collaboration</a></li>
+        <li><a href="../en/photo.html">Photo</a></li>
+        <li><a href="../en/contacts.html">Contacts</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ua/research.html">UA</a></li>
+        <li><a href="../ru/research.html">RU</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<div class="page-research">
+
+<h2>Research groups</h2>
+<hr width="24%" size="1" noshade color="black">
+<br>
+
+<ul>
+
+<li>
+<a href="../en/g_calculations.html">
+Electronic structure and magnetic properties</a>
+<br>
+<i>G.E. Grechnev, A.A. Lyogenkaya</i>
+</li>
+
+<br>
+
+<li>
+<a href="../en/g_pressure.html">
+Pressure effects and magnetic properties</a>
+<br>
+<i>A.S. Panfilov, I.P. Kobzar</i>
+</li>
+
+<br>
+
+<li>
+<a href="../en/g_squid.html">
+Magnetic properties of solids at low temperatures</a>
+<br>
+<i>V.A. Desnenko, A.V. Fedorchenko</i>
+</li>
+
+<br>
+
+<li>
+<a href="../en/g_ultrasound.html">
+Elastic, magnetoelastic, magneto- and piezoelectric properties of solids</a>
+<br>
+<i>V.D. Fil, G.A. Zvyagina, N.G. Burma, I.V. Bilych, T.N. Gaydamak, K.R. Zhekov, M.P. Kolodyazhnaya</i>
+</li>
+
+<br>
+
+<li>
+<a href="../en/g_xray.html">
+Structure and magnetoelastic properties of low-dimensional systems in the region of low temperature phase transitions</a>
+<br>
+<i>V.A. Sirenko, I.N. Bondar</i>
+</li>
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
+</center>
+<br>
+<br>

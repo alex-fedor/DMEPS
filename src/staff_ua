@@ -1,0 +1,309 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ua/home.html">Початок</a></li>
+        <li><a href="../ua/staff.html" class="active">Кадри</a></li>
+        <li>
+            <a href="../ua/research.html">Дослідження</a>
+            <ul>
+                <li><a href="../ua/g_calculations.html">Calculations</a></li>
+                <li><a href="../ua/g_pressure.html">Pressure</a></li>
+                <li><a href="../ua/g_squid.html">SQUID</a></li>
+                <li><a href="../ua/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ua/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ua/publications.html">Публікації</a></li>        
+        <li><a href="../ua/dissertations.html">Дисертації</a></li>
+        <li><a href="../ua/collaboration.html">Співробітництво</a></li>
+        <li><a href="../ua/photo.html">Фото</a></li>
+        <li><a href="../ua/contacts.html">Контакти</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ru/staff.html">RU</a></li>
+        <li><a href="../en/staff.html">EN</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<div class="page-staff">
+  
+<h2>Склад відділу</h2>
+<hr width="21%" size="1" noshade color="black">
+<br>
+
+<center>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<b><a href="../media/files/cv/cv_grechnev.pdf" target="blank">Генадій Є. Гречнєв</a></b><br>
+		<i>grech<span id="fela">eghataruslpost</span>nev@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6701326962" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+     	<a href="http://orcid.org/0000-0003-0547-2309" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
+     	<a href="https://scholar.google.com/citations?user=qWu54x4AAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+     	<a href="http://www.researcherid.com/rid/E-7781-2011" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a>
+	</td>
+	<td>
+		Завідуючий Відділом,<br>
+		Заступник директора ФТІНТ,<br>
+		Керівник <a href="../ua/g_calculations.html" target="blank">групи</a>,<br>
+		Професор,<br>
+		Доктор фіз.-мат. наук 
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<b><a href="../media/files/cv/cv_empty.pdf" target="blank">Галина А. Звягіна</a></b><br>
+		<i>zvya<span id="fela">eghataruslpost</span>gina@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6602421261" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=oXitEoIAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Заступник завідуючого Відділом,<br>
+		Старший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Вячеслав Д. Філь</a><br>
+		<i>f<span id="fela">eghataruslpost</span>il@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=56149892800" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+     	<a href="https://orcid.org/0000-0003-4576-6934" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
+     	<a href="https://scholar.google.com/citations?user=7MyQz1gAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Керівник <a href="../ua/g_ultrasound.html" target="blank">групи</a>,<br>
+		Головний науковий співробітник,<br>
+		Професор,<br>
+		Доктор фіз.-мат. наук 
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_sirenko.pdf" target="blank">Валентина А. Сіренко</a><br>
+		<i>sire<span id="fela">eghataruslpost</span>nko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=7003894552" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=sAtHBesAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Керівник <a href="../ua/g_xray.html" target="blank">групи</a>,<br>
+		Провідний науковий співробітник,<br>
+		Професор,<br>
+		Доктор фіз.-мат. наук 
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Анатолій С. Панфілов</a><br>
+		<i>pan<span id="fela">eghataruslpost</span>filov@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=7005553418" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=mrqNmHsAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Керівник <a href="../ua/g_pressure.html" target="blank">групи</a>,<br>
+		Старший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Володимир О. Десненко</a><br>
+		<i>desne<span id="fela">eghataruslpost</span>nko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6701434479" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=GI8lfnAAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Керівник <a href="../ua/g_squid.html" target="blank">групи</a>,<br>
+		Старший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Микола Г. Бурма</a><br>
+		<i>bu<span id="fela">eghataruslpost</span>rma@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=8609926000" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Старший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_fedorchenko.pdf" target="blank">Олексій В. Федорченко</a><br>
+		<i>fedor<span id="fela">eghataruslpost</span>chenko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+		<a href="https://www.scopus.com/authid/detail.uri?authorId=16063408100" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+		<a href="http://orcid.org/0000-0001-7768-8032" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
+		<a href="https://scholar.google.com/citations?user=m9Jl3xEAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+		<a href="http://www.researcherid.com/rid/J-2635-2017" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a>
+	</td>
+	<td>
+		Старший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Анастасія О. Легенька</a><br>
+		<i>lyoge<span id="fela">eghataruslpost</span>nkaya@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=56150103700" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=fI3EZdkAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_kobzar.pdf" target="blank">Ірина П. Кобзар (Журавльова)</a><br>
+		<i>izhur<span id="fela">eghataruslpost</span>avleva@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=55312941800" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=q5VjVpgAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Ігор В. Білич</a><br>
+		<i>bil<span id="fela">eghataruslpost</span>ich@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=25633956600" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=HaMf_w4AAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+		Аспірант
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_bondar.pdf" target="blank">Іван С. Бондар</a><br>
+		<i>ibond<span id="fela">eghataruslpost</span>ar@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=57069818400" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Тетяна М. Гайдамак</a><br>
+		<i>gayd<span id="fela">eghataruslpost</span>amak@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=55634147200" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=9ReD-K8AAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Костянтин Р. Жеков</a><br>
+		<i>z<span id="fela">eghataruslpost</span>hekov@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=8512036500" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Марина П. Колодяжна</a><br>
+		<i>kolodyaz<span id="fela">eghataruslpost</span>hnaya@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6505749256" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+		Аспірант
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a>Надія В. Ушакова</a><br>
+		<i>us<span id="fela">eghataruslpost</span>hakova@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i>
+	</td>
+	<td>
+		Інженер<br>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a>Надія Ф. Качур</a><br>
+		<i>nkac<span id="fela">eghataruslpost</span>hur@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i>
+	</td>
+	<td>
+		Технік<br>
+	</td>
+</tr>
+
+
+</table>
+</center>
+
+
+</div>
+
+
+<br>
+<br>

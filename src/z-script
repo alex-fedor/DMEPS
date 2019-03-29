@@ -1,0 +1,43 @@
+#!/bin/sh
+date -I > date_current
+cat begin_html header_en date-en_begin date_current date_end home_en end_html > ../en/home.html
+cat begin_html header_en date-en_begin date_current date_end staff_en end_html > ../en/staff.html
+cat begin_html header_en date-en_begin date_current date_end research_en end_html > ../en/research.html
+cat begin_html header_en date-en_begin date_current date_end publications_en end_html > ../en/publications.html
+cat begin_html header_en date-en_begin date_current date_end dissertations_en end_html > ../en/dissertations.html
+cat begin_html header_en date-en_begin date_current date_end collaboration_en end_html > ../en/collaboration.html
+cat begin_html header_en date-en_begin date_current date_end photo_en end_html > ../en/photo.html
+cat begin_html header_en date-en_begin date_current date_end contacts_en end_html > ../en/contacts.html
+cat begin_html header_en date-en_begin date_current date_end g_calculations_en end_html > ../en/g_calculations.html
+cat begin_html header_en date-en_begin date_current date_end g_pressure_en end_html > ../en/g_pressure.html
+cat begin_html header_en date-en_begin date_current date_end g_squid_en end_html > ../en/g_squid.html
+cat begin_html header_en date-en_begin date_current date_end g_ultrasound_en end_html > ../en/g_ultrasound.html
+cat begin_html header_en date-en_begin date_current date_end g_xray_en end_html > ../en/g_xray.html
+
+cat begin_html header_ru date-ru_begin date_current date_end home_ru end_html > ../ru/home.html
+cat begin_html header_ru date-ru_begin date_current date_end staff_ru end_html > ../ru/staff.html
+cat begin_html header_ru date-ru_begin date_current date_end research_ru end_html > ../ru/research.html
+cat begin_html header_ru date-ru_begin date_current date_end publications_ru end_html > ../ru/publications.html
+cat begin_html header_ru date-ru_begin date_current date_end dissertations_ru end_html > ../ru/dissertations.html
+cat begin_html header_ru date-ru_begin date_current date_end collaboration_ru end_html > ../ru/collaboration.html
+cat begin_html header_ru date-ru_begin date_current date_end photo_ru end_html > ../ru/photo.html
+cat begin_html header_ru date-ru_begin date_current date_end contacts_ru end_html > ../ru/contacts.html
+cat begin_html header_ru date-ru_begin date_current date_end g_calculations_ru end_html > ../ru/g_calculations.html
+cat begin_html header_ru date-ru_begin date_current date_end g_pressure_ru end_html > ../ru/g_pressure.html
+cat begin_html header_ru date-ru_begin date_current date_end g_squid_ru end_html > ../ru/g_squid.html
+cat begin_html header_ru date-ru_begin date_current date_end g_ultrasound_ru end_html > ../ru/g_ultrasound.html
+cat begin_html header_ru date-ru_begin date_current date_end g_xray_ru end_html > ../ru/g_xray.html
+
+cat begin_html header_ua date-ua_begin date_current date_end home_ua end_html > ../ua/home.html
+cat begin_html header_ua date-ua_begin date_current date_end staff_ua end_html > ../ua/staff.html
+cat begin_html header_ua date-ua_begin date_current date_end research_ua end_html > ../ua/research.html
+cat begin_html header_ua date-ua_begin date_current date_end publications_ua end_html > ../ua/publications.html
+cat begin_html header_ua date-ua_begin date_current date_end dissertations_ua end_html > ../ua/dissertations.html
+cat begin_html header_ua date-ua_begin date_current date_end collaboration_ua end_html > ../ua/collaboration.html
+cat begin_html header_ua date-ua_begin date_current date_end photo_ua end_html > ../ua/photo.html
+cat begin_html header_ua date-ua_begin date_current date_end contacts_ua end_html > ../ua/contacts.html
+cat begin_html header_ua date-ua_begin date_current date_end g_calculations_ua end_html > ../ua/g_calculations.html
+cat begin_html header_ua date-ua_begin date_current date_end g_pressure_ua end_html > ../ua/g_pressure.html
+cat begin_html header_ua date-ua_begin date_current date_end g_squid_ua end_html > ../ua/g_squid.html
+cat begin_html header_ua date-ua_begin date_current date_end g_ultrasound_ua end_html > ../ua/g_ultrasound.html
+cat begin_html header_ua date-ua_begin date_current date_end g_xray_ua end_html > ../ua/g_xray.html

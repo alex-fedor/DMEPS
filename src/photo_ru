@@ -1,0 +1,71 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ru/home.html">Начало</a></li>
+        <li><a href="../ru/staff.html">Кадры</a></li>
+        <li>
+            <a href="../ru/research.html">Исследования</a>
+            <ul>
+                <li><a href="../ru/g_calculations.html">Calculations</a></li>
+                <li><a href="../ru/g_pressure.html">Pressure</a></li>
+                <li><a href="../ru/g_squid.html">SQUID</a></li>
+                <li><a href="../ru/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ru/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ru/publications.html">Публикации</a></li>        
+        <li><a href="../ru/dissertations.html">Диссертации</a></li>
+        <li><a href="../ru/collaboration.html">Сотрудничество</a></li>
+        <li><a href="../ru/photo.html" class="active">Фото</a></li>
+        <li><a href="../ru/contacts.html">Контакты</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../en/photo.html">EN</a></li>
+        <li><a href="../ua/photo.html">UA</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-photo">
+
+<h2>Sorry, this page is under construction now</h2>
+<hr width="55%" size="1" noshade color="black">
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+<img SRC="../design/gears_1.gif" BORDER="30">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+</div></center>
+
+
+<br>
+<br>

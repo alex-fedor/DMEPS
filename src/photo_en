@@ -1,0 +1,71 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../en/home.html">Home</a></li>
+        <li><a href="../en/staff.html">Staff</a></li>
+        <li>
+            <a href="../en/research.html">Research</a>
+            <ul>
+                <li><a href="../en/g_calculations.html">Calculations</a></li>
+                <li><a href="../en/g_pressure.html">Pressure</a></li>
+                <li><a href="../en/g_squid.html">SQUID</a></li>
+                <li><a href="../en/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../en/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../en/publications.html">Publications</a></li>        
+        <li><a href="../en/dissertations.html">Dissertations</a></li>
+        <li><a href="../en/collaboration.html">Collaboration</a></li>
+        <li><a href="../en/photo.html" class="active">Photo</a></li>
+        <li><a href="../en/contacts.html">Contacts</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ua/photo.html">UA</a></li>
+        <li><a href="../ru/photo.html">RU</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-photo">
+
+<h2>Sorry, this page is under construction now</h2>
+<hr width="55%" size="1" noshade color="black">
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+<img SRC="../design/gears_1.gif" BORDER="30">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+</div></center>
+
+
+<br>
+<br>

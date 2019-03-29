@@ -1,0 +1,232 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../en/home.html">Home</a></li>
+        <li><a href="../en/staff.html">Staff</a></li>
+        <li>
+            <a href="../en/research.html" class="active">Research</a>
+            <ul>
+                <li><a href="../en/g_calculations.html">Calculations</a></li>
+                <li><a href="../en/g_pressure.html">Pressure</a></li>
+                <li><a href="../en/g_squid.html" class="active">SQUID</a></li>
+                <li><a href="../en/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../en/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../en/publications.html">Publications</a></li>        
+        <li><a href="../en/dissertations.html">Dissertations</a></li>
+        <li><a href="../en/collaboration.html">Collaboration</a></li>
+        <li><a href="../en/photo.html">Photo</a></li>
+        <li><a href="../en/contacts.html">Contacts</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ua/g_squid.html">UA</a></li>
+        <li><a href="../ru/g_squid.html">RU</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-group">
+
+<h2>Magnetic properties of solids at low temperatures</h2>
+
+<hr width="65%" size="1" noshade color="black">
+<br>
+
+
+
+<h3>Staff of Research Group</h3>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Vladimir A. Desnenko</a><br>
+		<i>desne<span id="fela">eghataruslpost</span>nko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6701434479" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=GI8lfnAAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Head of <a href="../en/g_squid.html" target="blank">Group</a>,<br>
+		Senior Research Fellow,<br>
+		Dr.rer.nat., PhD.
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_fedorchenko.pdf" target="blank">Alexey V. Fedorchenko</a><br>
+		<i>fedor<span id="fela">eghataruslpost</span>chenko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+		<a href="https://www.scopus.com/authid/detail.uri?authorId=16063408100" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+		<a href="http://orcid.org/0000-0001-7768-8032" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
+		<a href="https://scholar.google.com/citations?user=m9Jl3xEAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+		<a href="http://www.researcherid.com/rid/J-2635-2017" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a>
+	</td>
+	<td>
+		Senior Research Fellow,<br>
+		Dr.rer.nat., PhD.
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a>Nadezhda V. Ushakova</a><br>
+		<i>us<span id="fela">eghataruslpost</span>hakova@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i>
+	</td>
+	<td>
+		Engineer<br>
+	</td>
+</tr>
+
+</table>
+<br>
+<br>
+
+
+<h3>Main directions of studies</h3>
+<br>
+<ul>
+
+
+<li>Investigation of magnetic properties of the lead-free multiferroic perovskites 
+and layered double hydroxides.
+This activity supported by project <a href="http://tumocs.web.ua.pt/" target="blank">TUMOCS</a> - 
+<i>TUneable Multiferroics based on oxygen OCtahedral Structures</i>. 
+This project has received funding from European Union’s <b>Horizon 2020</b> research and innovation programme 
+under the Marie Skłodowska-Curie grant agreement 
+No.&nbsp;<a href="https://cordis.europa.eu/project/rcn/194350_en.html" target="blank">645660</a>.</li>
+
+<li>Experimental studies of the magnetic properties of anisotropic transition metal compounds with metalloids, 
+such as iron-based high-temperature superconductors, transition metal diborides, 
+and itinerant antiferromagnets based on <i>d-</i>elements.</li>
+
+<li>Investigation of magnetic properties and effects related to phase transitions in solids.</li>
+
+<li>Experimental studies of magnetic properties of carbon nanotubes modified with <i>3d</i> metals (iron and cobalt).
+
+<li>Investigation of structural defects with the magnetic methods.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Main results</h3>
+<br>
+<ul>
+
+
+<li>Magnetic properties of new multiferroic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite was studied 
+in magnetic fields up to 50 kOe in the temperature range of 5–300 K. 
+The compound shows a weak ferromagnetic component below the Néel temperature, T<sub>N</sub>∼220 K. 
+A wide cusp-like anomaly of the temperature dependent magnetic susceptibility was revealed below 200 K. 
+The anomaly is dependent on the magnetic field applied and can be associated with 
+the glassy magnetic behavior of the compound.</li>
+
+<li>Magnetic properties of polycrystalline multiferroic Bi<sub>0.65</sub>La<sub>0.35</sub>Fe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> were studied 
+over the temperature range of 5−300 K in magnetic fields up to H=50 kOe. 
+Derivative of the initial magnetization curves demonstrates a temperature-dependent anomaly 
+in fields of H=15−25 kOe. Also, an anomaly of the temperature dependent magnetization 
+measured in ZFC regime in magnetic fields of 6−7 kOe has been found. 
+Origin of both anomalies is associated with inhomogeneous magnetic state of the compound.</li>
+
+<li>Magnetic behavior of Co<sup>II</sup>(n)Al<sup>III</sup> layered double hydroxides (LDHs) (n = Co/Al = 2 and 3) 
+intercalated with nitrate was studied as a function of temperature. 
+Co(2)Al–NO<sub>3</sub> and Co(3)Al–NO<sub>3</sub> demonstrate anomalous behavior of their temperature dependence 
+magnetic susceptibility in a higher temperature range: between 75 and 175 K, 
+both the paramagnetic Curie temperature and the effective magnetic moment change in a non-monotonous way.</li>
+
+<li>Exchange bias phenomenon, evident of antiferromagnetic–ferromagnetic phase segregation state, 
+has been observed in (Nd<sub>1-x</sub>Y<sub>x</sub>)<sub>2/3</sub>Ca<sub>1/3</sub>MnO<sub>3</sub> (x = 0, 0.1) compounds at low temperatures. 
+A contribution to the total magnetization of the compounds due to the ferromagnetic phase has been evaluated. 
+It has been found that yttrium doping leads to the growth of the ferromagnetic phase fraction.</li>
+
+<li>The magnetization of FeSe<sub>1-x</sub>Te<sub>x</sub> (x = 0, 0.5, and 1.0) compounds has been studied 
+in magnetic fields up to 50 kOe and at temperatures of 2 - 300 K. 
+The superconducting transition was observed at T<sub>c</sub> ~ 8 K and 13.6 - 14.2 K in FeSe<sub>0.963</sub> and FeSe<sub>0.5</sub>Te<sub>0.5</sub>, 
+respectively. The intrinsic magnetic susceptibility of FeSe<sub>0.963</sub>, FeSe<sub>0.5</sub>Te<sub>0.5</sub>, and FeTe was estimated 
+to increase gradually with Te content. For FeTe a drastic drop in χ(T) with decreasing temperature 
+was found at T<sub>N</sub> ~ 70 K, which is presumably related to antiferromagnetic ordering.</li>
+
+<li>A detailed magnetization study for the novel FeSe superconductor is carried out to investigate 
+the behavior of the intrinsic magnetic susceptibility χ in the normal state with temperature 
+and under hydrostatic pressure. The temperature dependences of χ and its anisotropy are measured 
+for FeSe single crystals in the temperature range 4.2-300 K, and a substantial growth of susceptibility 
+with temperature is revealed.</li>
+
+<li>The magnetic susceptibility of the compound LaFeAsO<sub>0.85</sub>F<sub>0.1</sub> was investigated in the temperature 
+range 4.2 - 300 K, and the superconducting transition was detected at 26 K. 
+A clear cusp at T<sub>M</sub> ~ 135 K was observed in the low-field dependence of the magnetic susceptibility χ(T) 
+with a sharp rise of χ with further cooling to TC ~ 26 K. 
+The obtained magnetization data M(H) indicate the emergence of an FM phase at T≤T<sub>M</sub>.</li>
+
+<li>The temperature dependencies of the magnetic susceptibility χ and its anisotropy were measured 
+for the hexagonal single crystalline TB<sub>2</sub> compounds (T = Sc, Ti, Zr, Hf, V and Cr) 
+in the temperature range 4.2-300 K. It was found that χ varies strongly and nonmonotonously 
+with the filling of the hybridized <i>d-</i>band, being almost temperature independent 
+and the largest for the diborides of group 4 metals.</li>
+
+<li>Magnetic properties of multi-walled carbon nanotubes modified with iron MWCNT+Fe are studied in detail 
+in the temperature range 4.2-300 K. The ZFC and FC temperature dependences of the magnetic susceptibility 
+reveal a number of magnetic phase transitions in this Fe-MWCNT system, 
+including a Verwey transition in Fe<sub>3</sub>O<sub>4</sub> particles which are presumably outside the MWCNT. 
+It has been shown that both the residual magnetization M<sub>R</sub> and the coercive field H<sub>c</sub> 
+decrease monotonically with increasing temperature.</li>
+
+<li>The magnetic properties of multi-walled carbon nanotubes (MWCNTs) modified with cobalt nanoparticles 
+were studied in the temperatures and magnetic field range of (4.2-290) K and (0.3–50) kOe, respectively. 
+Magnetization studies revealed two principal groups of Co nanoclusters in the synthesized MWCNT/Co sample. 
+The larger particles have a size from a few to about 10 nm. They are ferromagnetic, at least up to 300 K, 
+with the coercive field of about 600 Oe. The smaller Co particles have the atomic-scale size. 
+They are responsible for a pronounced paramagnetic behavior observed at low temperatures.
+The magnetic characterization provided the remanent magnetization value (M<sub>R</sub>) of about 0.07 emu/g 
+(40% of the saturation moment), while the coercive field (H<sub>c</sub>) value amounts to 600 Oe. 
+Both parameters M<sub>R</sub> and H<sub>c</sub> slightly decrease with the rise of temperature. 
+The substantial magnetization increase observed at low temperatures suggests the existence 
+of nano Co clusters (in the atomic scale size).</li>
+
+<li>In the region of the equilibrium solid solutions of lithium in aluminum an anomalous 
+low-temperature peak of diamagnetism is observed which is due to the presence 
+of a boundary point on a line of band degeneracy directly below the Fermi level.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Experimental equipment</h3>
+<br>
+<ul>
+
+
+<li>SQUID-magnetometer (self-made) for measuring magnetic susceptibility and magnetization of solids 
+in magnetic fields up to 50 kOe at temperatures of 4.2 ÷ 320 K 
+with the possibility of studying the influence of uniaxial compression.</li>
+
+<li>A magnetometer for measuring the <i>ac</i>-susceptibility in weak magnetic fields at temperatures<br> 
+of 78 ÷ 350 K in the frequency range 1 ÷ 200 kHz is being developed.</li>
+
+
+</ul>
+
+</div></center>
+
+
+<br>
+<br>

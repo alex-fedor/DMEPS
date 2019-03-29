@@ -1,0 +1,162 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../en/home.html">Home</a></li>
+        <li><a href="../en/staff.html">Staff</a></li>
+        <li>
+            <a href="../en/research.html" class="active">Research</a>
+            <ul>
+                <li><a href="../en/g_calculations.html">Calculations</a></li>
+                <li><a href="../en/g_pressure.html" class="active">Pressure</a></li>
+                <li><a href="../en/g_squid.html">SQUID</a></li>
+                <li><a href="../en/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../en/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../en/publications.html">Publications</a></li>        
+        <li><a href="../en/dissertations.html">Dissertations</a></li>
+        <li><a href="../en/collaboration.html">Collaboration</a></li>
+        <li><a href="../en/photo.html">Photo</a></li>
+        <li><a href="../en/contacts.html">Contacts</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ua/g_pressure.html">UA</a></li>
+        <li><a href="../ru/g_pressure.html">RU</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-group">
+
+<h2>Pressure effects and magnetic properties</h2>
+
+<hr width="55%" size="1" noshade color="black">
+<br>
+
+
+
+<h3>Staff of Research Group</h3>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Anatoliy S. Panfilov</a><br>
+		<i>pan<span id="fela">eghataruslpost</span>filov@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=7005553418" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=mrqNmHsAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Head of <a href="../en/g_pressure.html" target="blank">Group</a>,<br>
+		Senior Research Fellow,<br>
+		Dr.rer.nat., PhD.
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_kobzar.pdf" target="blank">Irina P. Kobzar (Zhuravleva)</a><br>
+		<i>izhur<span id="fela">eghataruslpost</span>avleva@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=55312941800" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=q5VjVpgAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Junior Research Fellow,<br>
+		Dr.rer.nat., PhD.
+	</td>
+</tr>
+
+</table>
+<br>
+<br>
+
+
+<h3>Main directions of studies</h3>
+<br>
+<ul>
+
+
+<li>The experimental study of the influence of pressure on the magnetic and superconducting 
+properties of iron-containing superconductors.</li>
+
+<li>The effect of high pressure on the magnetic properties of metals, alloys and intermetallic compounds.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Main results</h3>
+<br>
+<ul>
+
+
+<li>The systematic studies of pressure effects of <i>d-</i>metals and their alloys were carried out. 
+The main mechanisms of the change in the electronic structure of <i>d-</i>metals under all-round 
+pressure were determined.</li>
+
+<li>Features of magneto-volume effects in compounds of rare-earth elements were studied:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- borides - RB<sub>4</sub> (R = Ce, Sm, Yb), RB<sub>6</sub> (R = Ce, Sm, Eu, Gd);<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- RT<sub>4</sub>Al<sub>8</sub> (R = Sc, Y, La, Lu; T = Fe, Mn, Cr).</li>
+
+<li>The anomalous pressure effects were detected in the magnetic properties of 
+cobaltites RCoO<sub>3</sub> and manganites RMnO<sub>3</sub>.</li>
+
+<li>The сorrelations between the magnetic and superconducting properties of high-temperature 
+superconducting FeSe(Te) under hydrostatic pressure were investigated.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Experimental equipment</h3>
+<br>
+<ul>
+
+
+<li>Pendulum-type magnetometer, the movable part of which is located directly in the high-pressure chamber. 
+The pressure transmitting medium is gaseous helium (created pressure up to 2 kbar). 
+The main technical parameters: temperature range is 78 ÷ 300 K; working field is up to 17 kOe; 
+relative measurement error does not exceed 0.05%.</li>
+
+<li>Setup based on the levitation method. 
+This method consists in determining the magnetic characteristics 
+by free suspension of the sample in a strong non-homogeneous magnetic field. 
+As the pressure transmitting medium, helium gas is used (maximum pressure up to 2 kbar). 
+Main technical characteristics: 
+temperature range is 20.3 ÷ 300 K; 
+the maximum field in the working point is 10 kOe; 
+typical relative error of measurements is 0.05%.</li>
+
+<li>Faraday force magnetometer. 
+The main technical parameters: operating temperature range is 4.2 ÷ 350 K; 
+range of measured magnetic susceptibilities is (1 ÷ 1000)⋅10<sup>-7</sup> emu; 
+the sensitivity of the method is ~10<sup>-9</sup> emu.</li>
+
+
+</ul>
+
+</div></center>
+
+
+<br>
+<br>

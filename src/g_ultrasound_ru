@@ -1,0 +1,303 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ru/home.html">Начало</a></li>
+        <li><a href="../ru/staff.html">Кадры</a></li>
+        <li>
+            <a href="../ru/research.html" class="active">Исследования</a>
+            <ul>
+                <li><a href="../ru/g_calculations.html">Calculations</a></li>
+                <li><a href="../ru/g_pressure.html">Pressure</a></li>
+                <li><a href="../ru/g_squid.html">SQUID</a></li>
+                <li><a href="../ru/g_ultrasound.html" class="active">Ultrasound</a></li>
+                <li><a href="../ru/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ru/publications.html">Публикации</a></li>        
+        <li><a href="../ru/dissertations.html">Диссертации</a></li>
+        <li><a href="../ru/collaboration.html">Сотрудничество</a></li>
+        <li><a href="../ru/photo.html">Фото</a></li>
+        <li><a href="../ru/contacts.html">Контакты</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../en/g_ultrasound.html">EN</a></li>
+        <li><a href="../ua/g_ultrasound.html">UA</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-group">
+
+<h2>Упругие, магнитоупругие, магнито-<br>
+и пьезоэлектрические свойства твердых тел</h2>
+
+<hr width="62%" size="1" noshade color="black">
+<br>
+
+
+
+<h3>Состав исследовательской группы</h3>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Вячеслав Д. Филь</a><br>
+		<i>f<span id="fela">eghataruslpost</span>il@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=56149892800" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+     	<a href="https://orcid.org/0000-0003-4576-6934" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
+     	<a href="https://scholar.google.com/citations?user=7MyQz1gAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Руководитель <a href="../ru/g_ultrasound.html" target="blank">группы</a>,<br>
+		Главный научный сотрудник,<br>
+		Профессор,<br>
+		Доктор физ.-мат. наук 
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Галина А. Звягина</a><br>
+		<i>zvya<span id="fela">eghataruslpost</span>gina@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6602421261" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=oXitEoIAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Заместитель заведующего Отделом,<br>
+		Старший научный сотрудник,<br>
+		Кандидат физ.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Николай Г. Бурма</a><br>
+		<i>bu<span id="fela">eghataruslpost</span>rma@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=8609926000" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Старший научный сотрудник,<br>
+		Кандидат физ.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Константин Р. Жеков</a><br>
+		<i>z<span id="fela">eghataruslpost</span>hekov@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=8512036500" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Младший научный сотрудник,<br>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Татьяна Н. Гайдамак</a><br>
+		<i>gayd<span id="fela">eghataruslpost</span>amak@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=55634147200" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=9ReD-K8AAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Младший научный сотрудник,<br>
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Игорь В. Билыч</a><br>
+		<i>bil<span id="fela">eghataruslpost</span>ich@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=25633956600" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=HaMf_w4AAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Младший научный сотрудник,<br>
+		Аспирант
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Марина П. Колодяжная</a><br>
+		<i>kolodyaz<span id="fela">eghataruslpost</span>hnaya@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=6505749256" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Младший научный сотрудник,<br>
+		Аспирант
+	</td>
+</tr>
+
+</table>
+<br>
+<br>
+
+
+<h3>Основные направления исследований</h3>
+<br>
+<ul>
+
+
+<li>Фазовые превращения различной природы в твёрдых телах.</li>
+
+<li>Магнитоупругость, пьезо– и магнитоэлектрические явления в магнитных материалах.</li>
+
+<li>Динамика вихревых решёток в сверхпроводниках II рода.</li>
+
+<li>Электронные свойства проводящих систем в нормальном и сверхпроводящем состояниях.</li>
+
+<li>Прецизионные измерения модулей упругости монокристаллов.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Наиболее важные результаты</h3>
+<br>
+<ul>
+
+
+<li>Измерены экстремальные размеры поверхностей Ферми Al, Mo и Ga, определена анизотропия 
+энергетической щели в сверхпроводящих In и Al.</li>
+
+<li>Исследованы режимы сильного взаимодействия электронов со звуком. Обнаружено, что 
+электронный вклад в динамические модули упругости в высокочистых монокристаллах может достигать 10-15%.</li>
+
+<li>Впервые обнаружены эффекты баллистического переноса электронами упругих деформаций. 
+На их основе развит метод высокоточного измерения экстремальных фермиевских импульсов с 
+одновременным определением знака носителей заряда (Ga). 
+Изучена анизотропия скорости электрон-электронной релаксации в Al.</li>
+
+<li>Обнаружено нелинейное электрон-звуковое взаимодействие в металлах – т.н. импульсная нелинейность.</li>
+
+<li>Обнаружены и изучены новые типы собственных колебаний электронной плазмы металла, 
+характеризуемые линейным законом дисперсии: циклотронные и пучковые волны, нулевой звук, 
+концентрационная волна. Впервые в «хорошем металле» осуществлено возбуждение магнитоплазменных волн, 
+наблюдавшихся ранее только в Bi, – быстрой магнитозвуковой и альвеновской.</li>
+
+<li>Впервые в металлах зарегистрированы: а) электрический потенциал, связанный с продольной 
+звуковой волной, б) инерционное поле, сопровождающее поперечную звуковую волну - акустический 
+аналог эффекта Стюарта-Толмена. Разработан принципиально новый акустоэлектрический метод 
+изучения динамики  вихревых решёток в сверхпроводниках II рода. С его помощью в борокарбидах 
+изучено поведение силы Магнуса и измерены параметры пиннигующих потенциалов. Впервые за 
+долгую историю существования вопроса экспериментально измерена масса абрикосовского вихря 
+(~ 10<sup>-17</sup> г/см, YB<sub>6</sub>), оказавшаяся на два порядка больше существующих теоретических оценок.</li>
+
+<li>Измерены модули упругости репрезентативных соединений семейств двойных молибдатов, 
+купратов, борокарбидов, гекса- и додекаборидов. В частности, обнаружена гигантская 
+анизотропия упругих свойств в базовой плоскости монокристаллов La<sub>2</sub>CuO<sub>4</sub>. Во всех этих 
+соединениях подробно изучена эволюция упругих характеристик, сопровождающая фазовые 
+превращения сегнетоэластической и магнитной природы, многие из которых обнаружены впервые. 
+Построены соответствующие фазовые диаграммы в плоскости «магнитное поле-температура».</li>
+
+<li>Проведены магнитоакустические исследования монокристаллов из семейства редкоземельных 
+ферроборатов, принадлежащих к классу мультиферроиков. В ряде соединений обнаружены и 
+проанализированы новые спонтанные и индуцированные магнитным полем спин-реориентационные 
+фазовые переходы, в некоторых - определена температура Нееля. Впервые построены соответствующие 
+фазовые Н‑Т диаграммы.</li>
+
+<li>Измерены скорости звука и рассчитаны упругие и пьезоэлектрические модули в 
+монокристаллах NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> та SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>. Показано, что исследованные соединения 
+характеризуются достаточно сильным пьезоэффектом – значение пьезомодуля е<sub>11</sub> в 
+параэлектрической фазе (≈1.4 Кл/м<sup>2</sup>) почти на порядок выше, чем в α-кварце.</li>
+
+<li>Впервые обнаружено новое для магнитоупорядоченных сред спин-зависимое явление - 
+магнитопьезоэлектрический эффект. В самариевом ферроборате он проявляется в более чем 
+двукратном росте эффективного пьезомодуля в антиферромагнитной фазе. Эффект обнаружен 
+также в NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>. Природа эффекта – совместный вклад магнитоэлектрического и 
+магнитоупругого взаимодействий.</li>
+
+<li>В NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> обнаружены проявления эффекта нового типа - прямой перенормировки 
+пьезоэлектрического взаимодействия в магнитоуорядоченной фазе.</li>
+
+<li>В SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> обнаружен пьезоотклик в непьезоактивной (с точки зрения парафазы) 
+конфигурации, обусловленный, по-видимому, поверхностным пьезоеффектом.</li>
+
+<li>Определены все компоненты тензора модулей упругости монокристалла FeSe, принадлежащего 
+к семейству новых железосодержащих высокотемпературных сверхпроводников. Обнаружено 
+значительное смягчение С<sub>11</sub> и С<sub>11</sub> - С<sub>12</sub> мод при структурном переходе. Изучено влияние 
+сверхпроводящего перехода на скорость и затухание звукового сигнала, которое оказалось 
+значительным. Оценена величина сверхпроводящей энергетической щели.</li>
+
+<li>В монокристаллах FeSe исследован процесс акустоэлектрической трансформации. 
+В отсутствии постоянного магнитного поля обнаружена интенсивная генерация электромагнитного 
+излучения под действием ультразвука. Наиболее вероятная причина наблюдаемого эффекта - пьезомагнетизм.</li>
+
+<li>В монокристалле CoF<sub>2</sub> с помощью метода акустоэлектрической трансформации обнаружен новый канал 
+пьезомагнитного отклика, возникающий в магнитном поле: упругая деформация индуцирует магнитный момент, 
+ориентированный параллельно направлению сдвига в поперечной акустической волне. 
+Эффект существует как в антиферромагнитной фазе, так и при температурах, которые значительно 
+превышают температуру Нееля.</li>
+
+<li>Впервые экспериментально обнаружен пьезомагнитоэлектрический эффект в антиферомагнетиках, 
+теоретически предсказанный более 50 лет назад. Эффект зарегистрирован в экспериментах по 
+акустоэлектрической трансформации на монокристалле LiCoPo<sub>4</sub>, находящимся в магнитоупорядоченном состоянии. 
+Он проявляет себя как пьезоэлектрический отклик, существующий только в присутствии магнитного 
+поля, и линейно возрастающий по амплитуде с его ростом.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Экспериментальное оборудование</h3>
+<br>
+<ul>
+
+
+<li>Отделом разработано уникальное экспериментальное оборудование, позволяющее в 
+автоматическом режиме проводить высокоточные измерения скорости и затухания звука в 
+сильнопоглощающих средах. В частности, развита «нониусная» методика, пригодная для измерений 
+скорости звука в образцах субмиллиметровых размеров.</li>
+
+<li>Впервые реализована методика изучения динамических параметров вихревых решёток 
+с помощью акустоэлектрической трансформации.</li>
+
+<li>Впервые разработана методика обнаружения и исследования спин-зависимых пьезоэлектрических 
+эффектов в антиферромагнетиках.</li>
+
+<li>Диапазон температур – 1.7 ÷ 350 К, магнитных полей – до 5.5 Тл.</li>
+
+<li>Активно ведется разработка нового и модернизация существующего экспериментального оборудования.</li>
+
+
+</ul>
+
+</div></center>
+
+
+<br>
+<br>

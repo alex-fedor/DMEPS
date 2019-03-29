@@ -1,0 +1,383 @@
+/* FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT */
+@font-face {
+    font-family: DejaVu Serif;
+    /*src: url(fonts/pompadur.eot);*/ /* for IE5-8 */
+    src: local(DejaVu Serif), url("../fonts/DejaVuSerif.ttf"); /* for other browsers */
+    src: local(DejaVu Serif), url("../fonts/DejaVuSerif.eot"); /* for IE */
+   }
+/*@font-face {
+    font-family: DejaVu Serif;
+    src: local(DejaVu Serif), url("../fonts/DejaVuSerif.eot");
+   }*/
+/* FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT === FONT */
+body {
+    background-image:url("../design/background_total.gif");
+    font-size:17;
+    font-family: DejaVu Serif; 
+    /*font-family: Helvetica;*/
+}
+body i{
+    font-style:italic;
+}
+body b{
+    font-weight:bold;
+}
+
+.active {
+    list-style:none;
+    display:inline-block;
+    background:#51b6ff;
+    position:relative;
+/*    margin-left:-3px;*/
+    border-radius:4px;
+}
+
+.header-container {
+    position: fixed;    
+    width: 80%;
+    margin-left: 10%;
+    /*background-color: lightgreen;*/
+    background-image:url("../design/background_frame.gif");
+}
+.header-logo {
+    /*position: absolute;*/    
+    float:left;    
+    /*background-color:black;*/    
+    width:11%;
+    text-align:center;       
+}
+.header-logo a img{
+    border: 5px solid transparent;
+}
+.header-text {	 
+    /*position: absolute;*/
+    float: inherit;
+    /*top: 2%;*/    
+    margin-left: 11%;
+    background-color:transparent;
+}
+.header-text header{	 
+	 font-size:16;
+    font-weight:bold;
+    /*font-family:Liberation Sans;*/
+    text-align:center;
+    margin-top: 3pt;
+}
+.header-text h1{	 
+    font-size:22;
+    /*font-family: Liberation Sans;*/
+    color:#0000c0;
+    margin-top: 15pt;
+    /*    color:#3d3d98;*/
+    text-align:center;
+}
+
+.controls-container{
+    /*position:inherit;*/    
+    width: 100%;
+    /*margin-left: 10%;*/
+    float:left;
+    background-image:url("../design/background_frame.gif"); 
+    /*background:black;*/
+    
+}
+
+.update-time{
+    position:absolute;
+    bottom: 0;
+    /*top:25.6%;*/
+/*    margin-left:10%;*/
+    width:10%;    
+    font-size:10pt;
+    /*line-height: 1.08;*/
+    color:grey;
+    background:#fff;
+    border-radius:0 20px 20px 0;
+    float: left;
+}
+
+/* Navigation menu === Navigation menu === Navigation menu === Navigation menu === Navigation menu */
+
+.navigation-menu-container{
+    margin-left:10%;
+    width:80%;
+    background:transparent;
+    float: left;
+}
+.navigation-menu li{
+    list-style:none; 
+    display:inline-block;
+    background:#3d3d98;
+    position:relative;
+    margin-left:-3px;
+    border-radius:4px;
+    text-align: left;
+    font-size: 15;
+}
+.navigation-menu li:hover{
+    background:#6f6fca;
+}
+.navigation-menu li a{
+    color:#fff;
+    padding:5px 7px; 
+    text-decoration:none;
+    display:block;
+}
+.navigation-menu li ul{
+    display:none;
+    position:absolute;
+    padding-left:0;
+    margin-left:3px;    
+/*    width:200px;
+    padding-top:1px;*/
+}
+.navigation-menu li:hover ul{
+    display:block;
+    left:0px;
+}
+
+/* Language switcher === Language switcher === Language switcher === Language switcher === Language switcher */ 
+
+.language-switcher-container{
+    /*position:fixed;
+    top:25.6%;*/
+    margin-left:90%;/*depends on width such as: margin-left+width=100%*/
+    width:10%;
+    background:transparent;
+}
+
+.language-switcher li{
+    list-style:none; 
+    display:inline-block;
+    background:#323232;
+    position:relative;
+    margin-left:-3px;/*distance between horizontal buttons*/
+    border-radius:4px;
+    font-size: 15; 
+}
+.language-switcher li:hover{
+    background:#51b6ff;
+}
+.language-switcher li a{
+    color:#fff;
+    padding:5px 7px; 
+    text-decoration:none;
+    display:block;
+}
+
+/* Content === Content === Content === Content === Content === Content === Content === Content === */
+/* Content === Content === Content === Content === Content === Content === Content === Content === */
+/* Content === Content === Content === Content === Content === Content === Content === Content === */
+/* Content === Content === Content === Content === Content === Content === Content === Content === */
+/* Content === Content === Content === Content === Content === Content === Content === Content === */
+
+.page-home{
+    margin-left: 10%;
+/*    background:#c9f-fedor-fc9;*/
+    background:#f5f5ff;
+    width:76%;
+    line-height: 1.5;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-home h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+.page-home p{
+    text-align:justify;
+}
+.page-home ul{
+    list-style-type: disc;
+    text-align: left;
+/*    line-height: 1.5;*/
+/*    padding-bottom:2%;*/
+    padding-left:5%;
+    padding-right:2%;
+}
+/* STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === */
+
+.page-staff{
+    /*position: inherit;*/
+    margin-left: 10%;    
+    background:#f5f5ff;
+    width:76%;
+    line-height: 1.5;
+    /*padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-staff h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+
+/* RESEARCH === RESEARCH === RESEARCH === RESEARCH === RESEARCH === RESEARCH === RESEARCH === RESEARCH ===*/
+
+.page-research{
+    margin-left: 10%;
+    background:#f5f5ff;
+    width:76%;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-research h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+.page-research ul{
+    list-style-type: circle;
+    text-align: left;
+    line-height: 1.5;
+/*    padding-bottom:2%;*/
+    padding-left:2%;
+    padding-right:2%;
+}
+
+/* PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === */
+
+.page-publications{
+    background:#f5f5ff;
+    width:76%;
+    line-height: 1.5;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-publications h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+.page-publications p{
+    text-align:justify;
+}
+
+/* DISSERTATIONS === DISSERTATIONS === DISSERTATIONS === DISSERTATIONS === DISSERTATIONS === DISSERTATIONS */
+
+.page-dissertations{
+    background:#f5f5ff;
+    width:76%;
+    line-height: 1.5;
+    /*padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-dissertations h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+
+/* COLLABORATION === COLLABORATION === COLLABORATION === COLLABORATION === COLLABORATION === */
+
+.page-collaboration{
+    /*position:inherit;*/
+    margin-left: 10%;
+    background:#f5f5ff;
+    width:76%;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-collaboration h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+.page-collaboration ul{
+    list-style-type: disc;
+    text-align: left;
+    line-height: 1.5;
+/*    padding-bottom:2%;*/
+    padding-left:2%;
+    padding-right:2%;
+}
+
+/* PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO */
+
+.page-photo{
+    /*margin-left: 10%;*/
+    background:#f5f5ff;
+    width:76%;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-photo h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+
+/* CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS */
+
+.page-contacts{
+    margin-left: 10%;
+    background:#f5f5ff;
+    width:76%;
+    line-height: 1.5;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-contacts h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+
+/* GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS */
+/* GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS */
+/* GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS */
+
+.page-group{
+    /*margin-left: 10%;*/
+    background:#f5f5ff;
+    width:76%;
+/*    padding-top:160px;*/
+    padding-top:10.5em;
+    padding-bottom:2%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.page-group h2{
+    color:#000;
+    text-align:center;    
+    font-size:x-large;
+}
+.page-group h3{
+    color:#000;
+    text-align:center;    
+    font-size:large;
+    font-weight:bold;
+}
+.page-group ul{
+    list-style-type: disc;
+    text-align: left;
+    line-height: 1.5;
+/*    padding-bottom:2%;*/
+    padding-left:5%;
+    padding-right:5%;
+}

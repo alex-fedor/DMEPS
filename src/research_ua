@@ -1,0 +1,110 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ua/home.html">Початок</a></li>
+        <li><a href="../ua/staff.html">Кадри</a></li>
+        <li>
+            <a href="../ua/research.html" class="active">Дослідження</a>
+            <ul>
+                <li><a href="../ua/g_calculations.html">Calculations</a></li>
+                <li><a href="../ua/g_pressure.html">Pressure</a></li>
+                <li><a href="../ua/g_squid.html">SQUID</a></li>
+                <li><a href="../ua/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ua/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ua/publications.html">Публікації</a></li>        
+        <li><a href="../ua/dissertations.html">Дисертації</a></li>
+        <li><a href="../ua/collaboration.html">Співробітництво</a></li>
+        <li><a href="../ua/photo.html">Фото</a></li>
+        <li><a href="../ua/contacts.html">Контакти</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ru/research.html">RU</a></li>
+        <li><a href="../en/research.html">EN</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<div class="page-research">
+
+<h2>Дослідницькі групи</h2>
+<hr width="29%" size="1" noshade color="black">
+<br>
+
+<ul>
+
+<li>
+<a href="../ua/g_calculations.html">
+Електронна структура та магнітні властивості</a>
+<br>
+<i>Г.Є. Гречнєв, А.О. Легенька</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ua/g_pressure.html">
+Ефекти тиску та магнітні властивості</a>
+<br>
+<i>А.С. Панфілов, І.П. Кобзар</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ua/g_squid.html">
+Магнітні властивості твердих тіл при низьких температурах</a>
+<br>
+<i>В.О. Десненко, О.В. Федорченко</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ua/g_ultrasound.html">
+Пружні, магнітопружні, магніто- та п'єзоелектричні властивості твердих тіл</a>
+<br>
+<i>В.Д. Філь, Г.А. Звягіна, Н.Г. Бурма, І.В. Білич, Т.М. Гайдамак, К.Р. Жеков, M.П. Колодяжна</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ua/g_xray.html">
+Структурні та магнетопружні властивості низьковимірних систем в області низькотемпературних фазових переходів</a>
+<br>
+<i>В.A. Сіренко, І.С. Бондар</i>
+</li>
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
+</center>
+<br>
+<br>

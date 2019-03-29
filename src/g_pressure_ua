@@ -1,0 +1,154 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ua/home.html">Початок</a></li>
+        <li><a href="../ua/staff.html">Кадри</a></li>
+        <li>
+            <a href="../ua/research.html" class="active">Дослідження</a>
+            <ul>
+                <li><a href="../ua/g_calculations.html">Calculations</a></li>
+                <li><a href="../ua/g_pressure.html" class="active">Pressure</a></li>
+                <li><a href="../ua/g_squid.html">SQUID</a></li>
+                <li><a href="../ua/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ua/g_xray.html">X-ray</a></li>
+            </ul>
+        </li>
+        <li><a href="../ua/publications.html">Публікації</a></li>
+        <li><a href="../ua/dissertations.html">Дисертації</a></li>
+        <li><a href="../ua/collaboration.html">Співробітництво</a></li>
+        <li><a href="../ua/photo.html">Фото</a></li>
+        <li><a href="../ua/contacts.html">Контакти</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ru/g_pressure.html">RU</a></li>
+        <li><a href="../en/g_pressure.html">EN</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-group">
+
+<h2>Ефекти тиску та магнітні властивості</h2>
+
+<hr width="52%" size="1" noshade color="black">
+<br>
+
+
+
+<h3>Склад дослідницької групи</h3>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_empty.pdf" target="blank">Анатолій С. Панфілов</a><br>
+		<i>pan<span id="fela">eghataruslpost</span>filov@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=7005553418" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=mrqNmHsAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Керівник <a href="../ua/g_pressure.html" target="blank">групи</a>,<br>
+		Старший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_kobzar.pdf" target="blank">Ірина П. Кобзар (Журавльова)</a><br>
+		<i>izhur<span id="fela">eghataruslpost</span>avleva@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=55312941800" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=q5VjVpgAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Молодший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
+	</td>
+</tr>
+
+</table>
+<br>
+<br>
+
+
+<h3>Основні напрямки досліджень</h3>
+<br>
+<ul>
+
+
+<li>Вивчення ефектів тиску на магнітні та надпровідні властивості в надпровідних сполуках на основі заліза.</li>
+
+<li>Вплив високих тисків на магнітні властивості металів, сплавів та інтерметалічних сполук.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Найбільш важливі результати</h3>
+<br>
+<ul>
+
+
+<li>Проведено систематичне дослідження ефектів тиску в <i>d-</i> металах і їх сплавах. 
+Визначенні основні механізми зміни електронної структури <i>d-</i> металів при всебічному стисканні.</li>
+
+<li>Вивчено особливості магнітооб'ємних ефектів в сполуках рідкісноземельних елементів:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- бориди - RB<sub>4</sub> (R= Ce, Sm, Yb), RB<sub>6</sub> (R= Ce, Sm, Eu, Gd);<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- RT<sub>4</sub>Al<sub>8</sub> (R =Sc, Y, La, Lu; T=Fe, Mn, Cr).</li>
+
+<li>Виявлено аномальні ефекти тиску в магнітних властивостях кобальтитів RCoO<sub>3</sub> та манганітів RMnO<sub>3</sub>.</li>
+
+<li>Досліджено кореляції магнітних і надпровідних властивостей ВТНП FeSe(Te) 
+під впливом гідростатичного тиску.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Експериментальне обладнання</h3>
+<br>
+<ul>
+
+
+<li>Магнітометр маятникового типу, в якому рухома частина розміщена безпосередньо в камері високого тиску. 
+В якості середовища для передачі тиску використовується газоподібний гелій (створюваний тиск до 2 кбар). 
+Основні технічні параметри: діапазон температур - 78÷300 К; робоче поле - до 17 кЕ; 
+відносна похибка - не перевищує 0.05%.</li>
+
+<li>Установка на основі левітаційного методу. Даний метод полягає у визначенні 
+магнітних характеристик за допомогою вільного підвішування зразка в сильному неоднорідному магнітному полі. 
+В якості середовища для передачі тиску використовується газоподібний гелій (максимальний тиск до 2 кбар). 
+Основні технічні характеристики: інтервал температур 20.3-300 К; максимальне поле в робочій точці 10 кЕ; 
+типова відносна похибка вимірювання 0.05%.</li>
+
+<li>Магнітометр Фарадея. Основні технічні параметри: діапазон робочих температур - 4.2÷350 К; 
+діапазон вимірюваних магнітних сприйнятливостей - (1÷1000)⋅10<sup>−7</sup> е.м.о.; чутливість методу ~ 10<sup>−9</sup> е.м.о.</li>
+
+
+</ul>
+
+</div></center>
+
+
+<br>
+<br>

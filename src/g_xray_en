@@ -1,0 +1,172 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../en/home.html">Home</a></li>
+        <li><a href="../en/staff.html">Staff</a></li>
+        <li>
+            <a href="../en/research.html" class="active">Research</a>
+            <ul>
+                <li><a href="../en/g_calculations.html">Calculations</a></li>
+                <li><a href="../en/g_pressure.html">Pressure</a></li>
+                <li><a href="../en/g_squid.html">SQUID</a></li>
+                <li><a href="../en/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../en/g_xray.html" class="active">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../en/publications.html">Publications</a></li>        
+        <li><a href="../en/dissertations.html">Dissertations</a></li>
+        <li><a href="../en/collaboration.html">Collaboration</a></li>
+        <li><a href="../en/photo.html">Photo</a></li>
+        <li><a href="../en/contacts.html">Contacts</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ua/g_xray.html">UA</a></li>
+        <li><a href="../ru/g_xray.html">RU</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-group">
+
+<h2>Structure and magnetoelastic properties of low-dimensional systems<br>
+in the region of low temperature phase transitions</h2>
+
+<hr width="73%" size="1" noshade color="black">
+<br>
+
+
+
+<h3>Staff of Research Group</h3>
+<table class="table-staff">
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_sirenko.pdf" target="blank">Valentina A. Sirenko</a><br>
+		<i>sire<span id="fela">eghataruslpost</span>nko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=7003894552" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://scholar.google.com/citations?user=sAtHBesAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Head of <a href="../en/g_xray.html" target="blank">Group</a>,<br>
+		Leading Research Fellow,<br>
+		Prof., DrSc.
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="../media/files/cv/cv_bondar.pdf" target="blank">Ivan S. Bondar</a><br>
+		<i>ibond<span id="fela">eghataruslpost</span>ar@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
+     	<a href="https://www.scopus.com/authid/detail.uri?authorId=57069818400" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
+<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a> -->
+<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+	</td>
+	<td>
+		Junior Research Fellow,<br>
+		PhD Student
+	</td>
+</tr>
+
+</table>
+<br>
+<br>
+
+
+<h3>Main directions of studies</h3>
+<br>
+<ul>
+
+
+<li>Structural investigations of magnetics and superconductors at low temperatures.</li>
+
+<li>Magnetostriction phenomena in magnetics and superconductors in the region of low temperature 
+phase transitions.</li>
+
+<li>Nanotubes of the transition metals dichalcogenides.</li>
+
+<li>The structural research of low-dimensional non-organic conductors,as well as 
+electronic charactestistics of low-dimensional graphene-based nanostructures, caused by 
+crystallographic nonhomogeneities of studied materials.</li>
+
+<li>The study of the features of temperature dependences of lattice parameters and 
+vibrational characteristics of niobium layered diselenide in the region of low-temperature 
+electronic phase transitions.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Main results</h3>
+<br>
+<ul>
+
+
+<li>Identification and investigation of quantum magnetization and magnetostriction oscillations in 
+the mixed state of superconductors.</li>
+
+<li>Revealing of the twining structure appearance under formation of the antiferromagnetic dielectric 
+phase in  Nd<sub>0.5</sub>Sr<sub>0.5</sub>MnO<sub>3</sub> manganite.</li>
+
+<li>The detection and explanation of the low-temperature anomaly of the temperature dependence of 
+the coefficients of linear thermal expansion along different directions: in layered crystals 
+formed both by monoatomic layers (graphene nanofilms) and multilayered "sandwiches" 
+(EuBaCuO, 2H-NbSe<sub>2</sub>).</li>
+
+<li>Obtaining of the reproducible closed nanoformations of 2H-NbSe<sub>2</sub> (nanotubes and nanowires).</li>
+
+<li>Development and construction of the autonomous compact helium combi-cryostat for X-ray studies 
+in temperature region 10-300 K.</li>
+
+<li>Detection and explanation of the low-temperature anomalies of thermal expansion in 
+EuBaCuO compounds along the c crystal axis, substantially below the Debye temperature.</li>
+
+<li>The change in the electron and phonon spectra of graphene materials with the formation 
+of the chirality boundary "zigzag" is analyzed analytically and numerically and 
+it is shown that such a defect leads to a significant increase in the number of electrons 
+with energies near the Fermi energy and the number of quasi-bending phonons with frequencies 
+near that one which corresponds to the K-point of the first band Brillouin.</li>
+
+
+</ul>
+<br>
+<br>
+
+
+
+<h3>Experimental equipment</h3>
+<br>
+<ul>
+
+
+<li>X-rays diffractometer equipped with a low temperature chamber compatible with 
+originally designed cryostat intended for measurements in stationary magnetic 
+fields up to 5 T at 10 ÷ 300 K and helium combi cryostat (bath + continuous flow) 
+for all kinds of X-ray measurements in temperature region 10 ÷ 300 K (sample in vacuum).</li>
+
+<li>Universal X-ray unit "УРС-55А".</li>
+
+
+</ul>
+
+</div></center>
+
+
+<br>
+<br>

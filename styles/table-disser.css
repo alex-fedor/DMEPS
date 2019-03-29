@@ -1,0 +1,25 @@
+#table-dissertations-active {
+    /*position: inherit;*/
+    width: 100%;
+    empty-cells: show;
+    border-spacing: 0em 0.2em;
+/*    margin: 1em 0em;*/
+    border-style: none;
+    background-color: #fff;
+    font-size: 14
+}
+#table-dissertations-active th { border: 1px gray solid; border-width: 1px 1px; padding: 0.5em; vertical-align: top; text-align: left; }
+#table-dissertations-active td { border: 1px gray solid; border-width: 1px 1px; padding: 0.5em; vertical-align: top; text-align: left; }
+#table-dissertations-active th { background-color: #efefef; font-weight: bold;}
+/*#table-dissertations-active td + td, th + th { border-left: none; }*/
+
+/*.table-dissertations-active td a { color: navy; text-decoration: none; }
+.table-dissertations-active td a:hover  { text-decoration: underline; }*/
+
+/*#table-dissertations-active tr.noshow { display: none;}*/
+/*.table-dissertations-active tr.highlight td { background-color: #EFEFEF; border-top: 2px #2E2E2E solid; font-weight: bold; }*/
+/*.table-dissertations-active tr.abstract td, tr.review td, tr.bibtex td { background-color: #EFEFEF; text-align: justify; border-bottom: 2px #2E2E2E solid; }*/
+/*#table-dissertations-active tr.nextshow td { border-bottom: 1px gray solid; }*/
+
+/*.table-dissertations-active tr.bibtex pre { width: 100%; overflow: auto; white-space: pre-wrap;}*/
+/*.page-dissertations p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }*/

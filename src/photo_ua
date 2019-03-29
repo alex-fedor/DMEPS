@@ -1,0 +1,71 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ua/home.html">Початок</a></li>
+        <li><a href="../ua/staff.html">Кадри</a></li>
+        <li>
+            <a href="../ua/research.html">Дослідження</a>
+            <ul>
+                <li><a href="../ua/g_calculations.html">Calculations</a></li>
+                <li><a href="../ua/g_pressure.html">Pressure</a></li>
+                <li><a href="../ua/g_squid.html">SQUID</a></li>
+                <li><a href="../ua/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ua/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ua/publications.html">Публікації</a></li>        
+        <li><a href="../ua/dissertations.html">Дисертації</a></li>
+        <li><a href="../ua/collaboration.html">Співробітництво</a></li>
+        <li><a href="../ua/photo.html" class="active">Фото</a></li>
+        <li><a href="../ua/contacts.html">Контакти</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ru/photo.html">RU</a></li>
+        <li><a href="../en/photo.html">EN</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-photo">
+
+<h2>Sorry, this page is under construction now</h2>
+<hr width="55%" size="1" noshade color="black">
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+<img SRC="../design/gears_1.gif" BORDER="30">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+</div></center>
+
+
+<br>
+<br>

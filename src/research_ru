@@ -1,0 +1,110 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../ru/home.html">Начало</a></li>
+        <li><a href="../ru/staff.html">Кадры</a></li>
+        <li>
+            <a href="../en/research.html" class="active">Исследования</a>
+            <ul>
+                <li><a href="../ru/g_calculations.html">Calculations</a></li>
+                <li><a href="../ru/g_pressure.html">Pressure</a></li>
+                <li><a href="../ru/g_squid.html">SQUID</a></li>
+                <li><a href="../ru/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../ru/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../ru/publications.html">Публикации</a></li>        
+        <li><a href="../ru/dissertations.html">Диссертации</a></li>
+        <li><a href="../ru/collaboration.html">Сотрудничество</a></li>
+        <li><a href="../ru/photo.html">Фото</a></li>
+        <li><a href="../ru/contacts.html">Контакты</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../en/research.html">EN</a></li>
+        <li><a href="../ua/research.html">UA</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<div class="page-research">
+
+<h2>Исследовательские группы</h2>
+<hr width="39%" size="1" noshade color="black">
+<br>
+
+<ul>
+
+<li>
+<a href="../ru/g_calculations.html">
+Электронная структура и магнитные свойства</a>
+<br>
+<i>Г.Е. Гречнев, A.A. Лёгенькая</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ru/g_pressure.html">
+Эффекты давления и магнитные свойства</a>
+<br>
+<i>А.С. Панфилов, И.П. Кобзарь</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ru/g_squid.html">
+Магнитные свойства твердых тел при низких температурах</a>
+<br>
+<i>В.А. Десненко, А.В. Федорченко</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ru/g_ultrasound.html">
+Упругие, магнитоупругие, магнито- и пьезоэлектрические свойства твердых тел</a>
+<br>
+<i>В.Д. Филь, Г.А. Звягина, Н.Г. Бурма, И.В. Билыч, Т.Н. Гайдамак, К.Р Жеков, М.П. Колоджная</i>
+</li>
+
+<br>
+
+<li>
+<a href="../ru/g_xray.html">
+Структура и магнетоупругие свойства низкоразмерных систем в области низкотемпературных фазовых переходов</a>
+<br>
+<i>В.А. Сиренко, И.Н. Бондарь</i>
+</li>
+</ul>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
+</center>
+<br>
+<br>
