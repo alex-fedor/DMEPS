@@ -52,7 +52,7 @@
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
-
+    
 <tr id="drsc_grechnev" class="entry">
 	<td>Grechnev, G.E.</td>
 	<td>Electronic structure of <i>d</i>- and <i>f</i>-metal compounds: effects of hybridisation and spin polarization</td>
@@ -82,6 +82,17 @@
 <!-- 	<td>&nbsp;</td> -->
 
 	<td>Doctor of Sciences<br>(DrSc.)&nbsp;</td>
+
+<!-- 	<td>phdthesis</td> -->
+<!-- 	<td>&nbsp;</td> -->
+</tr>
+<tr id="phd_gaydamak" class="entry">
+	<td>Gaydamak, T.N.</td>
+	<td>Elastic characteristics of FeSe, SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>, NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> and acoustoelectric transformation in them</td>
+	<td>2019</td>
+<!-- 	<td>&nbsp;</td> -->
+
+	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
 
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
@@ -121,8 +132,8 @@
 </tr>
 <tr id="phd_zvyagina" class="entry">
 	<td>Zvyagina, G.A.</td>
-	<td>The elastic properties of ferroelectrics in the vicinity of the phase transitions of niobium</td>
-	<td>2005</td>
+	<td>Elastic properties of ferroelastics in the vicinity of phase transitions</td>
+	<td>2004</td>
 <!-- 	<td>&nbsp;</td> -->
 
 	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
