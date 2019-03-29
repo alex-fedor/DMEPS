@@ -43,7 +43,13 @@
 <hr width="27%" size="1" noshade color="black">
 <br>
 <p>
-This page contains almost full publication activity database of the Department's 
+The bibliometric profile of the Department in Google Scholar system 
+which contains information about the citation of researcher's papers 
+is located at the 
+<a href="https://scholar.google.com.ua/citations?user=nR7crWwAAAAJ&hl=en" target="blank">URL</a>-address.
+<br>
+<br>
+This page also contains almost full publication activity database of the Department's 
 employers with intuitive find-as-you-type searching. 
 Start entering a search query (author, year, journal, keywords, chemical compound,&nbsp;etc.) 
 in the form below and the results will be <b>immediately</b> filtered according to your request:
@@ -69,12 +75,191 @@ in the form below and the results will be <b>immediately</b> filtered according 
 
 <thead><tr><th width="20%">Author(s)</th><th width="20%">Title</th><th width="2%">Year</th><th width="20%">Journal</th><th width="2%">DOI</th></tr></thead>
 <tbody>
-
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
+<tr id="panfilov2019" class="entry">
+	<td>Panfilov, A.S., Grechnev, G.E., Lyogenkaya, A.A., Pashchenko, V.A., Zhuravleva, I.P., Vasylechko, L.O., Hreb, V.M., Turchenko, V.A. and Novoselov, D.</td>
+	<td>Magnetic properties of RCoO<sub>3</sub> cobaltites (R = La, Pr, Nd, Sm, Eu). Effects of hydrostatic and chemical pressure <p class="infolinks">[<a href="javascript:toggleInfo('panfilov2019','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('panfilov2019','bibtex')">BibTeX</a>]</p></td>
+	<td>2019</td>
+	<td><font color="#006400">Physica B: Condensed Matter</font><br/>Vol. 553, pp. 80-87&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1016/j.physb.2018.10.036" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_panfilov2019" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: We have investigated the temperature dependence of the magnetic susceptibility χ(T) of rare-earth cobaltites RCoO<sub>3</sub> (R = La, Pr, Nd, Sm, Eu) in the temperature range 4.2-300 K and also the influence of hydrostatic pressure up to 2 kbar on their susceptibility at fixed temperatures T = 78 and 300 K. The specific dependence χ(T) observed in LaCoO<sub>3</sub> and the anomalously large pressure effect (dlnχ/dP ∼ -100 Mbar<sup>-1</sup> for T = 78 K) are analyzed in the framework of a two-level model with energy levels difference Δ. The ground state of the system is assumed to be nonmagnetic with the zero spin of Co<sup>3+</sup> ions, and magnetism at a finite temperature is determined by the excited magnetic spin state. The results of the analysis, supplemented by theoretical calculations of the electronic structure of LaCoO<sub>3</sub>, indicate a significant increase in Δ with a decrease in the unit cell volume under the hydrostatic pressure. In the series of RCoO<sub>3</sub> (R = Pr, Nd, Sm, Eu) compounds, the volume of crystal cell decreases monotonically due to a decrease in the radius of R<sup>3+</sup> ions. This leads to an increase in the relative energy Δ of the excited state (the chemical pressure effect), which manifests itself in a decrease in the contribution of cobalt ions to the magnetic susceptibility at a fixed temperature, and also in a decrease in the hydrostatic pressure effect on the susceptibility of RCoO<sub>3</sub> compounds, which we have observed at T = 300 K.</td>
+</tr>
+<tr id="bib_panfilov2019" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{panfilov2019,
+  author = {Panfilov, A. S. and Grechnev, G. E. and Lyogenkaya, A. A. and Pashchenko, V. A. and Zhuravleva, I. P. and Vasylechko, L. O. and Hreb, V. M. and Turchenko, V. A. and Novoselov, D.},
+  title = {Magnetic properties of RCoO<sub>3</sub> cobaltites (R = La, Pr, Nd, Sm, Eu). Effects of hydrostatic and chemical pressure},
+  journal = {Physica B: Condensed Matter},
+  year = {2019},
+  volume = {553},
+  pages = {80-87},
+  doi = {http://dx.doi.org/10.1016/j.physb.2018.10.036}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="babkin2019" class="entry">
+	<td>Babkin, R.Y., Pashkevich, Y.G., Fedorchenko, A.V., Fertman, E.L., Desnenko, V.A., Prokhvatilov, A.I., Galtsov, N.N., Vieira, D.E.L. and Salak, A.N.</td>
+	<td>Impact of temperature dependent octahedra distortions on magnetic properties of Co-containing double layered hydroxides <p class="infolinks">[<a href="javascript:toggleInfo('babkin2019','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('babkin2019','bibtex')">BibTeX</a>]</p></td>
+	<td>2019</td>
+	<td><font color="#006400">Journal of Magnetism and Magnetic Materials</font><br/>Vol. 473, pp. 501-504&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1016/j.jmmm.2018.10.077" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_babkin2019" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Distortions of hydroxide octahedral complexes in the Co<sup>II</sup><sub>n</sub>Al<sup>III</sup> layered double hydroxides (LDHs) (n = Co<sup>II</sup>/Al<sup>III</sup> = 2 and 3) were studied as a function of the ratio of divalent-to-trivalent cations and temperature. A method for calculation the magnetic susceptibility of polycrystalline samples taking into account the statistical distribution of divalent and trivalent cations, and their effect on the distortions of the original structure is proposed. It is shown that the presence of a local maximum on the magnetic susceptibility curve of Co<sub>n</sub>Al LDHs compounds near T ∼ 160 K is due to freezing of the lattice parameters and, as a consequence, freezing of the tilting fluctuations of the O-H bonds.</td>
+</tr>
+<tr id="bib_babkin2019" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{babkin2019,
+  author = {Babkin, R. Y. and Pashkevich, Y. G. and Fedorchenko, A. V. and Fertman, E. L. and Desnenko, V. A. and Prokhvatilov, A. I. and Galtsov, N. N. and Vieira, D. E. L. and Salak, A. N.},
+  title = {Impact of temperature dependent octahedra distortions on magnetic properties of Co-containing double layered hydroxides},
+  journal = {Journal of Magnetism and Magnetic Materials},
+  year = {2019},
+  volume = {473},
+  pages = {501-504},
+  doi = {http://dx.doi.org/10.1016/j.jmmm.2018.10.077}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="desnenko2018" class="entry">
+	<td>Desnenko, V.A., Sirenko, V.A., Troyanchuk, I.O., Fedorchenko, A.V. and Yeremenko, A.V.</td>
+	<td>Low-temperature relaxation of magnetization in manganite Pr<sub>0.4</sub>Bi<sub>0.3</sub>Ca<sub>0.3</sub>MnO<sub>3</sub> <p class="infolinks">[<a href="javascript:toggleInfo('desnenko2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('desnenko2018','bibtex')">BibTeX</a>]</p></td>
+	<td>2018</td>
+	<td><font color="#006400">Low Temperature Physics</font><br/>Vol. 44(9), pp. 962-965&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1063/1.5052685" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_desnenko2018" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Low-temperature relaxation of magnetization in Pr<sub>0.4</sub>Bi<sub>0.3</sub>Ca<sub>0.3</sub>MnO<sub>3</sub> ceramics was measured after cooling in a magnetic field and aging at temperatures from 5 K to 38 K near the transition temperature to the magnetically ordered state. It was found that the relaxation process has a thermoactivation character at the first stage and is described in terms of the Arrhenius equation. Its activation energy Q ≈ 1.1 meV is comparable with the antiferromagnetic interaction energy in this compound. The temperature–time dependence of the relaxation rate at the second stage is described by a power law. The relaxation slows down as the temperature approaches the critical value, which may be associated with the formation of a cluster structure in the studied compound under these conditions.</td>
+</tr>
+<tr id="bib_desnenko2018" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{desnenko2018,
+  author = {Desnenko, V. A. and Sirenko, V. A. and Troyanchuk, I. O. and Fedorchenko, A. V. and Yeremenko, A. V.},
+  title = {Low-temperature relaxation of magnetization in manganite Pr<sub>0.4</sub>Bi<sub>0.3</sub>Ca<sub>0.3</sub>MnO<sub>3</sub>},
+  journal = {Low Temperature Physics},
+  year = {2018},
+  volume = {44},
+  number = {9},
+  pages = {962-965},
+  doi = {http://dx.doi.org/10.1063/1.5052685}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="cizmar2018" class="entry">
+	<td>Čižmár, E., Šoltésová, D., Kazheva, O.N., Alexandrov, G.G., Kravchenko, A.V., Chekulaeva, L.A., Kosenko, I.D., Sivaev, I.B., Bregadze, V.I., Fedorchenko, A.V., Starodub, V.A., Buravov, L.I., Dyachenko, O.A. and Feher, A.</td>
+	<td>Large magnetic anisotropy of chromium(III) ions in a bis(ethylenedithio)tetrathiafulvalenium salt of chromium bis(dicarbollide), (ET)<sub>2</sub>[3,3′-Cr(1,2-C<sub>2</sub>B<sub>9</sub>H<sub>11</sub>)<sub>2</sub>] <p class="infolinks">[<a href="javascript:toggleInfo('cizmar2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('cizmar2018','bibtex')">BibTeX</a>]</p></td>
+	<td>2018</td>
+	<td><font color="#006400">Transition Metal Chemistry</font><br/>Vol. 43(7), pp. 647-655&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1007/s11243-018-0253-1" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_cizmar2018" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The synthesis of a radical-cation salt based on a derivative of tetrathiafulvalene, (ET)2[3,3′-Cr(1,2-C2B9H11)2] (ET = bis(ethylenedithio)tetrathiafulvalenium), was accomplished by electrochemical anodic oxidation of ET in the presence of (Me4N)[3,3´-Cr(1,2-C2B9H11)2] in the galvanostatic regime. An electric conductivity σ (293 K) = 7 × 10−3 Ohm−1 cm−1 with semiconductor activation energy Ea ≅ 0.1 eV in the range of 127–300 K was observed. The crystal structure of (ET)2[3,3′-Cr(1,2-C2B9H11)2] was determined by X-ray diffraction at 173 K, revealing the presence of structural tetramers in radical-cation stacks. The magnetic properties of the complex were investigated in the temperature range 1.8–300 K using magnetometry and EPR, showing that the magnetic structure of (ET)2[3,3′-Cr(1,2-C2B9H11)2] consists of two independent magnetic subsystems. Cation radicals form a rectangular magnetic lattice in the ab-plane with significant antiferromagnetic exchange interactions. The chromium bis(dicarbollide) anions are characterized by unusually strong positive zero-field splitting of the Cr(III) ions, which was confirmed by ab initio calculations.</td>
+</tr>
+<tr id="bib_cizmar2018" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{cizmar2018,
+  author = {Čižmár, E. and Šoltésová, D. and Kazheva, O. N. and Alexandrov, G. G. and Kravchenko, A. V. and Chekulaeva, L. A. and Kosenko, I. D. and Sivaev, I. B. and Bregadze, V. I. and Fedorchenko, A. V. and Starodub, V. A. and Buravov, L. I. and Dyachenko, O. A. and Feher, A.},
+  title = {Large magnetic anisotropy of chromium(III) ions in a bis(ethylenedithio)tetrathiafulvalenium salt of chromium bis(dicarbollide), (ET)<sub>2</sub>[3,3′-Cr(1,2-C<sub>2</sub>B<sub>9</sub>H<sub>11</sub>)<sub>2</sub>]},
+  journal = {Transition Metal Chemistry},
+  year = {2018},
+  volume = {43},
+  number = {7},
+  pages = {647-655},
+  doi = {http://dx.doi.org/10.1007/s11243-018-0253-1}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="fedorchenko2018" class="entry">
+	<td>Fedorchenko, A.V., Fertman, E.L., Salak, A.N., Desnenko, V.A., Čižmár, E., Feher, A., Vaisburd, A.I., Olekhnovich, N.M., Pushkarev, A.V., Radyush, Y.V., Zarkov, A. and Kareiva, A.</td>
+	<td>Unusual magnetic properties of the polar orthorhombic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite <p class="infolinks">[<a href="javascript:toggleInfo('fedorchenko2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('fedorchenko2018','bibtex')">BibTeX</a>]</p></td>
+	<td>2018</td>
+	<td><font color="#006400">Journal of Magnetism and Magnetic Materials</font><br/>Vol. 465, pp. 328-332&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1016/j.jmmm.2018.06.015" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_fedorchenko2018" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Magnetic properties of new multiferroic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite which exists in two different orthorhombic polymorphs, the antipolar <i>Pnma</i> and the polar <i>Ima2</i>, were studied using a SQUID-magnetometer technique in magnetic fields up to 50 kOe in the temperature range of 5-300 K. Both polymorphs show a weak ferromagnetic component below the Néel temperature, T<sub>N</sub> ~220 K. A wide cusp-like anomaly of the temperature dependent magnetic susceptibility was revealed below 200 K. The anomaly is dependent on the magnetic field applied and can be associated with the glassy magnetic behavior of the compound. The best fit of the initial magnetization curves taken at each temperature can be obtained as a sum of two contributions, namely the nonlinear in field and the linear one. The nonlinear contribution appeared to be temperature and magnetic field dependent, which is in a good agreement with the magnetization experimentally obtained as a function of temperature in different magnetic fields applied. Increase of external magnetic field leads to a decrease of the nonlinear contribution to the total magnetic moment.</td>
+</tr>
+<tr id="bib_fedorchenko2018" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{fedorchenko2018,
+  author = {Fedorchenko, A. V. and Fertman, E. L. and Salak, A. N. and Desnenko, V. A. and Čižmár, E. and Feher, A. and Vaisburd, A. I. and Olekhnovich, N. M. and Pushkarev, A. V. and Radyush, Yu. V. and Zarkov, A. and Kareiva, A.},
+  title = {Unusual magnetic properties of the polar orthorhombic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite},
+  journal = {Journal of Magnetism and Magnetic Materials},
+  year = {2018},
+  volume = {465},
+  pages = {328-332},
+  doi = {http://dx.doi.org/10.1016/j.jmmm.2018.06.015}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="Troyanchuk2018" class="entry">
+	<td>Troyanchuk, I., Bushinsky, M., Tereshko, N., Sirenko, V., Sikolenko, V., Schorr, S., Ritter, C. and Franz, A.</td>
+	<td>Ferromagnetic ordering, magnetic and magnetotransport properties of R1-xSrx(Mn1-x/2Sbx/2)O3 (R = La, Pr, Nd, Sm, Eu) manganites <p class="infolinks">[<a href="javascript:toggleInfo('Troyanchuk2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Troyanchuk2018','bibtex')">BibTeX</a>]</p></td>
+	<td>2018</td>
+	<td><font color="#006400">Materials Research Express</font><br/>Vol. 5(6), pp. 066101&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1088/2053-1591/aac7b8" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_Troyanchuk2018" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Neutron diffraction, magnetic and magnetotransport studies of perovskites R1-x 3+Srx 2+ (Mn1-x 3+ Sbx/ 2 5+ )O3 (R = La, Pr) were carried out. It is shown that for x ∼ 0.2 systems undergo a transition from an antiferromagnetic state (x=0) to a ferromagnetic state. In the case of the R=La series a structural transformation from theO?-orthorhombic phase (x=0) to theO-orthorhombic one occurs, which is due to orbital disordering. At x.0.6 cluster spin glass like phases arise due to the competition between antiferromagnetic and ferromagnetic interactions, as well as due to the strong diamagnetic dilution. In case of the R=Pr series the structural transition into theO-orthorhombic phase was not observed under (Sr, Sb) codoping. As the ionic radius of the rare-earth ion decreases in the series R0.7 Sr0.3 Mn0.85 Sb0.15O3 the crystal structure distortion increases and the ferromagnetic state (R=La, Pr, Nd) is gradually transformed into a spin glass like state (R=Sm, Eu). The ferromagnetic compounds are insulators and exhibit a large magnitude of the magnetoresistance apparently associated with very small amount ofMn4+ ions. The covalent component of the chemical bond and e.g.-orbitals disordering/mixing are assumed to be responsible for ferromagnetism in the compounds under study.</td>
+</tr>
+<tr id="bib_Troyanchuk2018" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{Troyanchuk2018,
+  author = {Troyanchuk, I.O. and Bushinsky, M.V. and Tereshko, N.V. and Sirenko, V.A. and Sikolenko, V. and Schorr, S. and Ritter, C. and Franz, A.},
+  title = {Ferromagnetic ordering, magnetic and magnetotransport properties of R1-xSrx(Mn1-x/2Sbx/2)O3 (R = La, Pr, Nd, Sm, Eu) manganites},
+  journal = {Materials Research Express},
+  publisher = {Institute of Physics Publishing},
+  year = {2018},
+  volume = {5},
+  number = {6},
+  pages = {066101},
+  doi = {http://dx.doi.org/10.1088/2053-1591/aac7b8}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="Panfilov2018328" class="entry">
+	<td>Panfilov, A., Grechnev, G., Zhuravleva, I., Lyogenkaya, A., Pashchenko, V., Savenko, B., Novoselov, D., Prabhakaran, D. and Troyanchuk, I.</td>
+	<td>Pressure effect on magnetic susceptibility of LaCoO3 <p class="infolinks">[<a href="javascript:toggleInfo('Panfilov2018328','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Panfilov2018328','bibtex')">BibTeX</a>]</p></td>
+	<td>2018</td>
+	<td><font color="#006400">Low Temperature Physics</font><br/>Vol. 44(4), pp. 328-333&nbsp;</td>
+	<td><a href="http://dx.doi.org/10.1063/1.5030456" target="_blank">DOI</a> &nbsp;</td>
+</tr>
+<tr id="abs_Panfilov2018328" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The effect of pressure on magnetic properties of LaCoO3 is studied experimentally and theoretically. The pressure dependence of magnetic susceptibility χ of LaCoO3 is obtained by precise measurements of χ as a function of the hydrostatic pressure P up to 2 kbar in the temperature range from 78 K to 300 K. A pronounced magnitude of the pressure effect is found to be negative in sign and strongly temperature dependent. The obtained experimental data are analysed by using a two-level model and DFT+U calculations of the electronic structure of LaCoO3. In particular, the fixed spin moment method was employed to obtain a volume dependence of the total energy difference Δ between the low spin and the intermediate spin states of LaCoO3. Analysis of the obtained experimental χ(P) dependence within the two-level model, as well as our DFT+U calculations, have revealed the anomalous large decrease in the energy difference Δ with increasing of the unit cell volume. This effect, taking into account a thermal expansion, can be responsible for the temperatures dependence of Δ, predicting its vanishing near room temperature.</td>
+</tr>
+<tr id="bib_Panfilov2018328" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{Panfilov2018328,
+  author = {Panfilov, A.S. and Grechnev, G.E. and Zhuravleva, I.P. and Lyogenkaya, A.A. and Pashchenko, V.A. and Savenko, B.N. and Novoselov, D. and Prabhakaran, D. and Troyanchuk, I.O.},
+  title = {Pressure effect on magnetic susceptibility of LaCoO3},
+  journal = {Low Temperature Physics},
+  year = {2018},
+  volume = {44},
+  number = {4},
+  pages = {328-333},
+  doi = {http://dx.doi.org/10.1063/1.5030456}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
 <tr id="Budnyk2018233" class="entry">
 	<td>Budnyk, M., Minov, Y., Lyakhno, V., Desnenko, V., Linnik, A. and Shopen, O.</td>
 	<td>Development of improved superconductive axial gradiometers for biomagnetic SQUID applications <p class="infolinks">[<a href="javascript:toggleInfo('Budnyk2018233','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Budnyk2018233','bibtex')">BibTeX</a>]</p></td>
@@ -98,29 +283,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {3},
   pages = {233-237},
   doi = {http://dx.doi.org/10.1063/1.5024543}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="cizmar2018" class="entry">
-	<td>Čižmár, E., Šoltésová, D., Kazheva, O.N., Alexandrov, G.G., Kravchenko, A.V., Chekulaeva, L.A., Kosenko, I.D., Sivaev, I.B., Bregadze, V.I., Fedorchenko, A.V., Starodub, V.A., Buravov, L.I., Dyachenko, O.A. and Feher, A.</td>
-	<td>Large magnetic anisotropy of chromium(III) ions in a bis(ethylenedithio)tetrathiafulvalenium salt of chromium bis(dicarbollide), (ET)<sub>2</sub>[3,3′-Cr(1,2-C<sub>2</sub>B<sub>9</sub>H<sub>11</sub>)<sub>2</sub>] <p class="infolinks">[<a href="javascript:toggleInfo('cizmar2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('cizmar2018','bibtex')">BibTeX</a>]</p></td>
-	<td>2018</td>
-	<td><font color="#006400">Transition Metal Chemistry</font>&nbsp;</td>
-	<td><a href="http://dx.doi.org/10.1007/s11243-018-0253-1" target="_blank">DOI</a> &nbsp;</td>
-</tr>
-<tr id="abs_cizmar2018" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The synthesis of a radical-cation salt based on a derivative of tetrathiafulvalene, (ET)2[3,3′-Cr(1,2-C2B9H11)2] (ET = bis(ethylenedithio)tetrathiafulvalenium), was accomplished by electrochemical anodic oxidation of ET in the presence of (Me4N)[3,3´-Cr(1,2-C2B9H11)2] in the galvanostatic regime. An electric conductivity σ (293 K) = 7 × 10−3 Ohm−1 cm−1 with semiconductor activation energy Ea ≅ 0.1 eV in the range of 127–300 K was observed. The crystal structure of (ET)2[3,3′-Cr(1,2-C2B9H11)2] was determined by X-ray diffraction at 173 K, revealing the presence of structural tetramers in radical-cation stacks. The magnetic properties of the complex were investigated in the temperature range 1.8–300 K using magnetometry and EPR, showing that the magnetic structure of (ET)2[3,3′-Cr(1,2-C2B9H11)2] consists of two independent magnetic subsystems. Cation radicals form a rectangular magnetic lattice in the ab-plane with significant antiferromagnetic exchange interactions. The chromium bis(dicarbollide) anions are characterized by unusually strong positive zero-field splitting of the Cr(III) ions, which was confirmed by ab initio calculations.</td>
-</tr>
-<tr id="bib_cizmar2018" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{cizmar2018,
-  author = {Čižmár, E. and Šoltésová, D. and Kazheva, O. N. and Alexandrov, G. G. and Kravchenko, A. V. and Chekulaeva, L. A. and Kosenko, I. D. and Sivaev, I. B. and Bregadze, V. I. and Fedorchenko, A. V. and Starodub, V. A. and Buravov, L. I. and Dyachenko, O. A. and Feher, A.},
-  title = {Large magnetic anisotropy of chromium(III) ions in a bis(ethylenedithio)tetrathiafulvalenium salt of chromium bis(dicarbollide), (ET)<sub>2</sub>[3,3′-Cr(1,2-C<sub>2</sub>B<sub>9</sub>H<sub>11</sub>)<sub>2</sub>]},
-  journal = {Transition Metal Chemistry},
-  year = {2018},
-  doi = {http://dx.doi.org/10.1007/s11243-018-0253-1}
 }
 </pre></td>
 </tr>
@@ -179,57 +341,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="fedorchenko2018" class="entry">
-	<td>Fedorchenko, A.V., Fertman, E.L., Salak, A.N., Desnenko, V.A., Čižmár, E., Feher, A., Vaisburd, A.I., Olekhnovich, N.M., Pushkarev, A.V., Radyush, Y.V., Zarkov, A. and Kareiva, A.</td>
-	<td>Unusual magnetic properties of the polar orthorhombic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite <p class="infolinks">[<a href="javascript:toggleInfo('fedorchenko2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('fedorchenko2018','bibtex')">BibTeX</a>]</p></td>
-	<td>2018</td>
-	<td><font color="#006400">Journal of Magnetism and Magnetic Materials</font><br/>Vol. 465, pp. 328-332&nbsp;</td>
-	<td><a href="http://dx.doi.org/10.1016/j.jmmm.2018.06.015" target="_blank">DOI</a> &nbsp;</td>
-</tr>
-<tr id="abs_fedorchenko2018" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Magnetic properties of new multiferroic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite which exists in two different orthorhombic polymorphs, the antipolar <i>Pnma</i> and the polar <i>Ima2</i>, were studied using a SQUID-magnetometer technique in magnetic fields up to 50 kOe in the temperature range of 5-300 K. Both polymorphs show a weak ferromagnetic component below the Néel temperature, T<sub>N</sub> ~220 K. A wide cusp-like anomaly of the temperature dependent magnetic susceptibility was revealed below 200 K. The anomaly is dependent on the magnetic field applied and can be associated with the glassy magnetic behavior of the compound. The best fit of the initial magnetization curves taken at each temperature can be obtained as a sum of two contributions, namely the nonlinear in field and the linear one. The nonlinear contribution appeared to be temperature and magnetic field dependent, which is in a good agreement with the magnetization experimentally obtained as a function of temperature in different magnetic fields applied. Increase of external magnetic field leads to a decrease of the nonlinear contribution to the total magnetic moment.</td>
-</tr>
-<tr id="bib_fedorchenko2018" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{fedorchenko2018,
-  author = {Fedorchenko, A. V. and Fertman, E. L. and Salak, A. N. and Desnenko, V. A. and Čižmár, E. and Feher, A. and Vaisburd, A. I. and Olekhnovich, N. M. and Pushkarev, A. V. and Radyush, Yu. V. and Zarkov, A. and Kareiva, A.},
-  title = {Unusual magnetic properties of the polar orthorhombic BiFe<sub>0.5</sub>Sc<sub>0.5</sub>O<sub>3</sub> perovskite},
-  journal = {Journal of Magnetism and Magnetic Materials},
-  year = {2018},
-  volume = {465},
-  pages = {328-332},
-  doi = {http://dx.doi.org/10.1016/j.jmmm.2018.06.015}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="Panfilov2018328" class="entry">
-	<td>Panfilov, A., Grechnev, G., Zhuravleva, I., Lyogenkaya, A., Pashchenko, V., Savenko, B., Novoselov, D., Prabhakaran, D. and Troyanchuk, I.</td>
-	<td>Pressure effect on magnetic susceptibility of LaCoO3 <p class="infolinks">[<a href="javascript:toggleInfo('Panfilov2018328','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Panfilov2018328','bibtex')">BibTeX</a>]</p></td>
-	<td>2018</td>
-	<td><font color="#006400">Low Temperature Physics</font><br/>Vol. 44(4), pp. 328-333&nbsp;</td>
-	<td><a href="http://dx.doi.org/10.1063/1.5030456" target="_blank">DOI</a> &nbsp;</td>
-</tr>
-<tr id="abs_Panfilov2018328" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The effect of pressure on magnetic properties of LaCoO3 is studied experimentally and theoretically. The pressure dependence of magnetic susceptibility χ of LaCoO3 is obtained by precise measurements of χ as a function of the hydrostatic pressure P up to 2 kbar in the temperature range from 78 K to 300 K. A pronounced magnitude of the pressure effect is found to be negative in sign and strongly temperature dependent. The obtained experimental data are analysed by using a two-level model and DFT+U calculations of the electronic structure of LaCoO3. In particular, the fixed spin moment method was employed to obtain a volume dependence of the total energy difference Δ between the low spin and the intermediate spin states of LaCoO3. Analysis of the obtained experimental χ(P) dependence within the two-level model, as well as our DFT+U calculations, have revealed the anomalous large decrease in the energy difference Δ with increasing of the unit cell volume. This effect, taking into account a thermal expansion, can be responsible for the temperatures dependence of Δ, predicting its vanishing near room temperature.</td>
-</tr>
-<tr id="bib_Panfilov2018328" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{Panfilov2018328,
-  author = {Panfilov, A.S. and Grechnev, G.E. and Zhuravleva, I.P. and Lyogenkaya, A.A. and Pashchenko, V.A. and Savenko, B.N. and Novoselov, D. and Prabhakaran, D. and Troyanchuk, I.O.},
-  title = {Pressure effect on magnetic susceptibility of LaCoO3},
-  journal = {Low Temperature Physics},
-  year = {2018},
-  volume = {44},
-  number = {4},
-  pages = {328-333},
-  doi = {http://dx.doi.org/10.1063/1.5030456}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Soltesova2018272" class="entry">
 	<td>Šoltésová, D., Vasylets, G., Čižmár, E., Fedorchenko, A., Starodub, V., Medviediev, V., Shishkin, O., Bukrynov, O. and Feher, A.</td>
 	<td>Magnetic properties of the anion-radical salts [M(bipy)3](TCNQ)4·X, where M = Co, Ni, Zn and X = H2O or (CH3)2CO <p class="infolinks">[<a href="javascript:toggleInfo('Soltesova2018272','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Soltesova2018272','bibtex')">BibTeX</a>]</p></td>
@@ -252,33 +363,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
   volume = {471},
   pages = {272-279},
   doi = {http://dx.doi.org/10.1016/j.ica.2017.11.001}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="Troyanchuk2018" class="entry">
-	<td>Troyanchuk, I., Bushinsky, M., Tereshko, N., Sirenko, V., Sikolenko, V., Schorr, S., Ritter, C. and Franz, A.</td>
-	<td>Ferromagnetic ordering, magnetic and magnetotransport properties of R1-xSrx(Mn1-x/2Sbx/2)O3 (R = La, Pr, Nd, Sm, Eu) manganites <p class="infolinks">[<a href="javascript:toggleInfo('Troyanchuk2018','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Troyanchuk2018','bibtex')">BibTeX</a>]</p></td>
-	<td>2018</td>
-	<td><font color="#006400">Materials Research Express</font><br/>Vol. 5(6), pp. 066101&nbsp;</td>
-	<td><a href="http://dx.doi.org/10.1088/2053-1591/aac7b8" target="_blank">DOI</a> &nbsp;</td>
-</tr>
-<tr id="abs_Troyanchuk2018" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Neutron diffraction, magnetic and magnetotransport studies of perovskites R1-x 3+Srx 2+ (Mn1-x 3+ Sbx/ 2 5+ )O3 (R = La, Pr) were carried out. It is shown that for x ∼ 0.2 systems undergo a transition from an antiferromagnetic state (x=0) to a ferromagnetic state. In the case of the R=La series a structural transformation from theO?-orthorhombic phase (x=0) to theO-orthorhombic one occurs, which is due to orbital disordering. At x.0.6 cluster spin glass like phases arise due to the competition between antiferromagnetic and ferromagnetic interactions, as well as due to the strong diamagnetic dilution. In case of the R=Pr series the structural transition into theO-orthorhombic phase was not observed under (Sr, Sb) codoping. As the ionic radius of the rare-earth ion decreases in the series R0.7 Sr0.3 Mn0.85 Sb0.15O3 the crystal structure distortion increases and the ferromagnetic state (R=La, Pr, Nd) is gradually transformed into a spin glass like state (R=Sm, Eu). The ferromagnetic compounds are insulators and exhibit a large magnitude of the magnetoresistance apparently associated with very small amount ofMn4+ ions. The covalent component of the chemical bond and e.g.-orbitals disordering/mixing are assumed to be responsible for ferromagnetism in the compounds under study.</td>
-</tr>
-<tr id="bib_Troyanchuk2018" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{Troyanchuk2018,
-  author = {Troyanchuk, I.O. and Bushinsky, M.V. and Tereshko, N.V. and Sirenko, V.A. and Sikolenko, V. and Schorr, S. and Ritter, C. and Franz, A.},
-  title = {Ferromagnetic ordering, magnetic and magnetotransport properties of R1-xSrx(Mn1-x/2Sbx/2)O3 (R = La, Pr, Nd, Sm, Eu) manganites},
-  journal = {Materials Research Express},
-  publisher = {Institute of Physics Publishing},
-  year = {2018},
-  volume = {5},
-  number = {6},
-  pages = {066101},
-  doi = {http://dx.doi.org/10.1088/2053-1591/aac7b8}
 }
 </pre></td>
 </tr>
@@ -2386,32 +2470,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev2012iii" class="entry">
-	<td>Grechnev, G.E., Panfilov, A.S., Desnenko, V.A., Fedorchenko, A.V., Zhuravleva, I.P., Gnatchenko, S.L., Tsurkan, V., Chareev, D.A., Kozlyakova, E.S., Volkova, O.S. and Vasiliev, A.N.</td>
-	<td>Pressure effects on electronic structure and magnetic properties of the FeSe(Te) superconductors <p class="infolinks">[<a href="javascript:toggleInfo('grechnev2012iii','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev2012iii','bibtex')">BibTeX</a>]</p></td>
-	<td>2012</td>
-	<td><font color="#006400">High Pressure Physics and Technics</font><br/>Vol. 22(4), pp. 28-38&nbsp;</td>
-	<td><a href="http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2012_4_3.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev2012iii" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The magnetic susceptibility χ of the FeSe and FeTe compounds, which form the simplest FeSe(Te) system of the novel iron-based superconductors, is studied in the normal state under hydrostatic pressure. A substantial positive pressure effect on χ is detected at low temperatures for both compounds. At room temperature, this effect is found to be also strong, but it is negative for FeSe and positive for FeTe. Ab initio calculations of the pressure dependent electronic structure and magnetic susceptibility indicate that FeSe and FeTe are close to magnetic instability with dominating enhanced spin paramagnetism. The calculated paramagnetic susceptibility exhibits a strong dependence on the unit cell volume and the height Z of chalcogen species from the Fe plane. The observed large positive pressure effects on χ in FeTe and FeSe at low temperatures are related to considerable sensitivity of the paramagnetism to the internal parameter Z. It is shown that available experimental data on the strong and nonmonotonic pressure dependence of the superconducting transition temperature in FeSe correlate qualitatively with the calculated behavior of the density of electronic states at the Fermi level.</td>
-</tr>
-<tr id="bib_grechnev2012iii" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev2012iii,
-  author = {Grechnev, G. E. and Panfilov, A. S. and Desnenko, V. A. and Fedorchenko, A. V. and Zhuravleva, I. P. and Gnatchenko, S. L. and Tsurkan, V. and Chareev, D. A. and Kozlyakova, E. S. and Volkova, O. S. and Vasiliev, A. N.},
-  title = {Pressure effects on electronic structure and magnetic properties of the FeSe(Te) superconductors},
-  journal = {High Pressure Physics and Technics},
-  year = {2012},
-  volume = {22},
-  number = {4},
-  pages = {28-38},
-  url = {http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2012_4_3.pdf}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Kajnakova2012675" class="entry">
 	<td>Kajňaková, M., Feher, A., Fertman, E., Desnenko, V., Beznosov, A. and Dolya, S.</td>
 	<td>Nanophase separation and magnetic spin glass in Nd2/3Ca 1/3MnO3 <p class="infolinks">[<a href="javascript:toggleInfo('Kajnakova2012675','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Kajnakova2012675','bibtex')">BibTeX</a>]</p></td>
@@ -2616,6 +2674,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {5},
   pages = {446-449},
   doi = {http://dx.doi.org/10.1063/1.4707947}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev2012iii" class="entry">
+	<td>Grechnev, G.E., Panfilov, A.S., Desnenko, V.A., Fedorchenko, A.V., Zhuravleva, I.P., Gnatchenko, S.L., Tsurkan, V., Chareev, D.A., Kozlyakova, E.S., Volkova, O.S. and Vasiliev, A.N.</td>
+	<td>Pressure effects on electronic structure and magnetic properties of the FeSe(Te) superconductors <p class="infolinks">[<a href="javascript:toggleInfo('grechnev2012iii','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev2012iii','bibtex')">BibTeX</a>]</p></td>
+	<td>2012</td>
+	<td><font color="#006400">High Pressure Physics and Technics</font><br/>Vol. 22(4), pp. 28-38&nbsp;</td>
+	<td><a href="http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2012_4_3.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev2012iii" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The magnetic susceptibility χ of the FeSe and FeTe compounds, which form the simplest FeSe(Te) system of the novel iron-based superconductors, is studied in the normal state under hydrostatic pressure. A substantial positive pressure effect on χ is detected at low temperatures for both compounds. At room temperature, this effect is found to be also strong, but it is negative for FeSe and positive for FeTe. Ab initio calculations of the pressure dependent electronic structure and magnetic susceptibility indicate that FeSe and FeTe are close to magnetic instability with dominating enhanced spin paramagnetism. The calculated paramagnetic susceptibility exhibits a strong dependence on the unit cell volume and the height Z of chalcogen species from the Fe plane. The observed large positive pressure effects on χ in FeTe and FeSe at low temperatures are related to considerable sensitivity of the paramagnetism to the internal parameter Z. It is shown that available experimental data on the strong and nonmonotonic pressure dependence of the superconducting transition temperature in FeSe correlate qualitatively with the calculated behavior of the density of electronic states at the Fermi level.</td>
+</tr>
+<tr id="bib_grechnev2012iii" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev2012iii,
+  author = {Grechnev, G. E. and Panfilov, A. S. and Desnenko, V. A. and Fedorchenko, A. V. and Zhuravleva, I. P. and Gnatchenko, S. L. and Tsurkan, V. and Chareev, D. A. and Kozlyakova, E. S. and Volkova, O. S. and Vasiliev, A. N.},
+  title = {Pressure effects on electronic structure and magnetic properties of the FeSe(Te) superconductors},
+  journal = {High Pressure Physics and Technics},
+  year = {2012},
+  volume = {22},
+  number = {4},
+  pages = {28-38},
+  url = {http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2012_4_3.pdf}
 }
 </pre></td>
 </tr>
@@ -3167,32 +3251,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev2010ii" class="entry">
-	<td>Grechnev, G.E., Desnenko, V.A., Fedorchenko, A.V., Panfilov, A.S., Gnatchenko, S.L., Zhuravleva, I.P., Volkova, O.S., Vasiliev, A.N. and Tsurkan, V.V.</td>
-	<td>Pressure effect on electronic structure and magnetic properties of iron-based high Tc superconductors <p class="infolinks">[<a href="javascript:toggleInfo('grechnev2010ii','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev2010ii','bibtex')">BibTeX</a>]</p></td>
-	<td>2010</td>
-	<td><font color="#006400">High Pressure Physics and Technics</font><br/>Vol. 20(4), pp. 60-69&nbsp;</td>
-	<td><a href="http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2010_4_6.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev2010ii" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Pressure effects on electronic structure and magnetic properties of iron-based superconductors FeSe1-xTex (x ~ 0, 0.5 and 1.0) and LaFeAsO are investigated. The superconducting transition was observed at TC ~ 8, 13.6-14.2, and 26 K in FeSe0.963, FeSe0.5Te0.5, and LaFeAsO0.85F0.1, respectively. The intrinsic magnetic susceptibility χ in the series of FeSe0.963, FeSe0.5Te0.5 and FeTe is found to increase gradually approximately 10 times as much with Te content. A kink in the low-field dependence of χ(T) was detected at TM ~ 135 K for LaFeAsO0.85F0.1. The electronic structures and paramagnetic susceptibilities of the studied compounds are calculated ab initio in external magnetic field as a function of atomic volume and structural parameter Z, which specifies the relative height of chalcogen atoms above iron plane. The calculated field-induced magnetic moments and their volume derivatives indicate that these systems are in a close proximity to a<br>quantum critical point. For FeSe and FeTe the calculated paramagnetic susceptibilities reveal a large magnetovolume effect and a drastic sensitivity to parameter Z.</td>
-</tr>
-<tr id="bib_grechnev2010ii" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev2010ii,
-  author = {Grechnev, G. E. and Desnenko, V. A. and Fedorchenko, A. V. and Panfilov, A. S. and Gnatchenko, S. L. and Zhuravleva, I. P. and Volkova, O. S. and Vasiliev, A. N. and Tsurkan, V. V.},
-  title = {Pressure effect on electronic structure and magnetic properties of iron-based high Tc superconductors},
-  journal = {High Pressure Physics and Technics},
-  year = {2010},
-  volume = {20},
-  number = {4},
-  pages = {60-69},
-  url = {http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2010_4_6.pdf}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Troyanchuk2010375" class="entry">
 	<td>Troyanchuk, I., Bushinsky, M., Karpinsky, D., Sirenko, V., Sikolenko, V. and Efimov, V.</td>
 	<td>Structural and magnetic phases of Bi 1-xA xFeO 3- δ (A = Sr, Pb) perovskites <p class="infolinks">[<a href="javascript:toggleInfo('Troyanchuk2010375','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Troyanchuk2010375','bibtex')">BibTeX</a>]</p></td>
@@ -3271,6 +3329,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
+<tr id="grechnev2010ii" class="entry">
+	<td>Grechnev, G.E., Desnenko, V.A., Fedorchenko, A.V., Panfilov, A.S., Gnatchenko, S.L., Zhuravleva, I.P., Volkova, O.S., Vasiliev, A.N. and Tsurkan, V.V.</td>
+	<td>Pressure effect on electronic structure and magnetic properties of iron-based high Tc superconductors <p class="infolinks">[<a href="javascript:toggleInfo('grechnev2010ii','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev2010ii','bibtex')">BibTeX</a>]</p></td>
+	<td>2010</td>
+	<td><font color="#006400">High Pressure Physics and Technics</font><br/>Vol. 20(4), pp. 60-69&nbsp;</td>
+	<td><a href="http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2010_4_6.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev2010ii" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Pressure effects on electronic structure and magnetic properties of iron-based superconductors FeSe1-xTex (x ~ 0, 0.5 and 1.0) and LaFeAsO are investigated. The superconducting transition was observed at TC ~ 8, 13.6-14.2, and 26 K in FeSe0.963, FeSe0.5Te0.5, and LaFeAsO0.85F0.1, respectively. The intrinsic magnetic susceptibility χ in the series of FeSe0.963, FeSe0.5Te0.5 and FeTe is found to increase gradually approximately 10 times as much with Te content. A kink in the low-field dependence of χ(T) was detected at TM ~ 135 K for LaFeAsO0.85F0.1. The electronic structures and paramagnetic susceptibilities of the studied compounds are calculated ab initio in external magnetic field as a function of atomic volume and structural parameter Z, which specifies the relative height of chalcogen atoms above iron plane. The calculated field-induced magnetic moments and their volume derivatives indicate that these systems are in a close proximity to a<br>quantum critical point. For FeSe and FeTe the calculated paramagnetic susceptibilities reveal a large magnetovolume effect and a drastic sensitivity to parameter Z.</td>
+</tr>
+<tr id="bib_grechnev2010ii" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev2010ii,
+  author = {Grechnev, G. E. and Desnenko, V. A. and Fedorchenko, A. V. and Panfilov, A. S. and Gnatchenko, S. L. and Zhuravleva, I. P. and Volkova, O. S. and Vasiliev, A. N. and Tsurkan, V. V.},
+  title = {Pressure effect on electronic structure and magnetic properties of iron-based high Tc superconductors},
+  journal = {High Pressure Physics and Technics},
+  year = {2010},
+  volume = {20},
+  number = {4},
+  pages = {60-69},
+  url = {http://www.fti.dn.ua/site/wp-content/uploads/2014/02/2010_4_6.pdf}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
 <tr id="Avramenko2009724" class="entry">
 	<td>Avramenko, Y., Bezuglyǐ, E., Burma, N. and Fil, V.</td>
 	<td>Electron sound in metals <p class="infolinks">[<a href="javascript:toggleInfo('Avramenko2009724','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Avramenko2009724','bibtex')">BibTeX</a>]</p></td>
@@ -3293,32 +3377,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {8},
   pages = {724-734},
   doi = {http://dx.doi.org/10.1063/1.3224732}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="azhazha2009" class="entry">
-	<td>Azhazha, V., Desnenko, V., Ozhigov, L., Azhazha, Z., Svechkaryov, I. and Fedorchenko, A.</td>
-	<td>The use of magnetic methods for investigating the structure evolution in austenitic stainless steels after a long-term service at nuclear power plant units <p class="infolinks">[<a href="javascript:toggleInfo('azhazha2009','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('azhazha2009','bibtex')">BibTeX</a>]</p></td>
-	<td>2009</td>
-	<td><font color="#006400">Problems of Atomic Science and Technology</font><br/>Vol. 62(4), pp. 241-246&nbsp;</td>
-	<td><a href="http://vant.kipt.kharkov.ua/ARTICLE/VANT_2009_4/article_2009_4_241.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_azhazha2009" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Investigation of the influence on magnetic properties of metals after lengthy operation in power generating units of NPS is carried out by SQUID magnetometer for austenitic steels. The obtained results testify to the high sensitivity of magnetic method on analysis of structure state of materials and point to the prospects of its use for diagnostics of low-magnetic steels.</td>
-</tr>
-<tr id="bib_azhazha2009" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{azhazha2009,
-  author = {Azhazha, V.M. and Desnenko, V.A. and Ozhigov, L.S. and Azhazha, Zh.S. and Svechkaryov, I.V. and Fedorchenko, A.V.},
-  title = {The use of magnetic methods for investigating the structure evolution in austenitic stainless steels after a long-term service at nuclear power plant units},
-  journal = {Problems of Atomic Science and Technology},
-  year = {2009},
-  volume = {62},
-  number = {4},
-  pages = {241-246},
-  url = {http://vant.kipt.kharkov.ua/ARTICLE/VANT_2009_4/article_2009_4_241.pdf}
 }
 </pre></td>
 </tr>
@@ -3844,6 +3902,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
+<tr id="azhazha2009" class="entry">
+	<td>Azhazha, V., Desnenko, V., Ozhigov, L., Azhazha, Z., Svechkaryov, I. and Fedorchenko, A.</td>
+	<td>The use of magnetic methods for investigating the structure evolution in austenitic stainless steels after a long-term service at nuclear power plant units <p class="infolinks">[<a href="javascript:toggleInfo('azhazha2009','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('azhazha2009','bibtex')">BibTeX</a>]</p></td>
+	<td>2009</td>
+	<td><font color="#006400">Problems of Atomic Science and Technology</font><br/>Vol. 62(4), pp. 241-246&nbsp;</td>
+	<td><a href="http://vant.kipt.kharkov.ua/ARTICLE/VANT_2009_4/article_2009_4_241.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_azhazha2009" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Investigation of the influence on magnetic properties of metals after lengthy operation in power generating units of NPS is carried out by SQUID magnetometer for austenitic steels. The obtained results testify to the high sensitivity of magnetic method on analysis of structure state of materials and point to the prospects of its use for diagnostics of low-magnetic steels.</td>
+</tr>
+<tr id="bib_azhazha2009" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{azhazha2009,
+  author = {Azhazha, V.M. and Desnenko, V.A. and Ozhigov, L.S. and Azhazha, Zh.S. and Svechkaryov, I.V. and Fedorchenko, A.V.},
+  title = {The use of magnetic methods for investigating the structure evolution in austenitic stainless steels after a long-term service at nuclear power plant units},
+  journal = {Problems of Atomic Science and Technology},
+  year = {2009},
+  volume = {62},
+  number = {4},
+  pages = {241-246},
+  url = {http://vant.kipt.kharkov.ua/ARTICLE/VANT_2009_4/article_2009_4_241.pdf}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
 <tr id="Baranovskiy2008243" class="entry">
 	<td>Baranovskiy, A., Grechnev, G., Panfilov, A., Svechkarev, I., ZogaŁ, O., Czopnik, A. and Hackemer, A.</td>
 	<td>Anomalous diamagnetism of YbPb3 compound: Pressure effects <p class="infolinks">[<a href="javascript:toggleInfo('Baranovskiy2008243','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Baranovskiy2008243','bibtex')">BibTeX</a>]</p></td>
@@ -4000,32 +4084,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev2008" class="entry">
-	<td>Grechnev, G.E., Panfilov, A.S., Fedorchenko, A.V., Svechkarev, I.V., Filippov, V.B., Lyashchenko, A.B. and Vasiliev, A.N.</td>
-	<td>Pressure effects on electronic structure and magnetic properties of anisotropic metallic compounds <p class="infolinks">[<a href="javascript:toggleInfo('grechnev2008','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev2008','bibtex')">BibTeX</a>]</p></td>
-	<td>2008</td>
-	<td><font color="#006400">High Pressure Physics and Technics</font><br/>Vol. 18(4), pp. 112-118&nbsp;</td>
-	<td><a href="http://www.fti.dn.ua/site/en/ftvd-journal/journal-content/ftvd-v18-4/" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev2008" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Pressure effects on electronic structure and magnetic properties of anisotropic metallic materials (CrB2, FeGe2, LaFeAsO) are investigated. Magnetic susceptibilities of CrB2 and FeGe2 compounds were studied under hydrostatic pressure at fixed temperatures, 77 and 300 K. In order to analyze the experimental magnetovolume effects, the electronic structures were calculated ab initio in external magnetic field as a function of atomic volume by employing a full-potential LMTO method. The calculated field-induced magnetic moments and their volume derivatives compare favorably with the experimental pressure effects in magnetic properties of CrB2 and FeGe2. The main role of pressure in high-Tc superconductivity of LaFeAsO is found to reduce density of states at the Fermi level and to suppress ferromagnetic spin fluctuations.</td>
-</tr>
-<tr id="bib_grechnev2008" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev2008,
-  author = {Grechnev, G. E. and Panfilov, A. S. and Fedorchenko, A. V. and Svechkarev, I. V. and Filippov, V. B. and Lyashchenko, A. B. and Vasiliev, A. N.},
-  title = {Pressure effects on electronic structure and magnetic properties of anisotropic metallic compounds},
-  journal = {High Pressure Physics and Technics},
-  year = {2008},
-  volume = {18},
-  number = {4},
-  pages = {112-118},
-  url = {http://www.fti.dn.ua/site/en/ftvd-journal/journal-content/ftvd-v18-4/}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Grechnev2008921" class="entry">
 	<td>Grechnev, G., Baranovskiy, A., Fil, V., Ignatova, T., Kolobov, I., Logosha, A., Shitsevalova, N., Filippov, V. and Eriksson, O.</td>
 	<td>Electronic structure and bulk properties of MB6and MB 12 borides <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev2008921','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev2008921','bibtex')">BibTeX</a>]</p></td>
@@ -4100,6 +4158,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {11},
   pages = {901-908},
   doi = {http://dx.doi.org/10.1063/1.3009584}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev2008" class="entry">
+	<td>Grechnev, G.E., Panfilov, A.S., Fedorchenko, A.V., Svechkarev, I.V., Filippov, V.B., Lyashchenko, A.B. and Vasiliev, A.N.</td>
+	<td>Pressure effects on electronic structure and magnetic properties of anisotropic metallic compounds <p class="infolinks">[<a href="javascript:toggleInfo('grechnev2008','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev2008','bibtex')">BibTeX</a>]</p></td>
+	<td>2008</td>
+	<td><font color="#006400">High Pressure Physics and Technics</font><br/>Vol. 18(4), pp. 112-118&nbsp;</td>
+	<td><a href="http://www.fti.dn.ua/site/en/ftvd-journal/journal-content/ftvd-v18-4/" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev2008" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Pressure effects on electronic structure and magnetic properties of anisotropic metallic materials (CrB2, FeGe2, LaFeAsO) are investigated. Magnetic susceptibilities of CrB2 and FeGe2 compounds were studied under hydrostatic pressure at fixed temperatures, 77 and 300 K. In order to analyze the experimental magnetovolume effects, the electronic structures were calculated ab initio in external magnetic field as a function of atomic volume by employing a full-potential LMTO method. The calculated field-induced magnetic moments and their volume derivatives compare favorably with the experimental pressure effects in magnetic properties of CrB2 and FeGe2. The main role of pressure in high-Tc superconductivity of LaFeAsO is found to reduce density of states at the Fermi level and to suppress ferromagnetic spin fluctuations.</td>
+</tr>
+<tr id="bib_grechnev2008" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev2008,
+  author = {Grechnev, G. E. and Panfilov, A. S. and Fedorchenko, A. V. and Svechkarev, I. V. and Filippov, V. B. and Lyashchenko, A. B. and Vasiliev, A. N.},
+  title = {Pressure effects on electronic structure and magnetic properties of anisotropic metallic compounds},
+  journal = {High Pressure Physics and Technics},
+  year = {2008},
+  volume = {18},
+  number = {4},
+  pages = {112-118},
+  url = {http://www.fti.dn.ua/site/en/ftvd-journal/journal-content/ftvd-v18-4/}
 }
 </pre></td>
 </tr>
@@ -7108,32 +7192,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev1995" class="entry">
-	<td>Grechnev, G.E., Svechkarev, I.V., Fomenko, Y.V. and Hjelm, A.</td>
-	<td>Electronic structure of intermetallic compounds HoIn3 and TmGa3 <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1995','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1995','bibtex')">BibTeX</a>]</p></td>
-	<td>1995</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 21(3), pp. 333-335&nbsp;</td>
-	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/21/21-3/f21-0333r.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1995" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The first ab initio calculations of the spin-polarized electronic structure are carried out for heavy rare-earth metal compounds HoIn3 and TmGa3. The topology of the Fermi surface is determined for these compounds. The site- and angular-momentum-resolved contributions to the total magnetic moments are found for f and sp atoms.</td>
-</tr>
-<tr id="bib_grechnev1995" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1995,
-  author = {Grechnev, G. E. and Svechkarev, I. V. and Fomenko, Yu. V. and Hjelm, A.},
-  title = {Electronic structure of intermetallic compounds HoIn3 and TmGa3},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1995},
-  volume = {21},
-  number = {3},
-  pages = {333-335},
-  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/21/21-3/f21-0333r.pdf}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Grechnev1995107" class="entry">
 	<td>Grechnev, G., Panfilov, A., Svechkarev, I., Buschow, K. and Czopnik, A.</td>
 	<td>Conduction-electron-mediated exchange coupling in heavy rare earth metal compounds RM and RM3 <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev1995107','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev1995107','bibtex')">BibTeX</a>]</p></td>
@@ -7234,6 +7292,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {1-4},
   pages = {168-171},
   doi = {http://dx.doi.org/10.1016/0921-4526(94)00976-3}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1995" class="entry">
+	<td>Grechnev, G.E., Svechkarev, I.V., Fomenko, Y.V. and Hjelm, A.</td>
+	<td>Electronic structure of intermetallic compounds HoIn3 and TmGa3 <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1995','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1995','bibtex')">BibTeX</a>]</p></td>
+	<td>1995</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 21(3), pp. 333-335&nbsp;</td>
+	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/21/21-3/f21-0333r.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1995" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The first ab initio calculations of the spin-polarized electronic structure are carried out for heavy rare-earth metal compounds HoIn3 and TmGa3. The topology of the Fermi surface is determined for these compounds. The site- and angular-momentum-resolved contributions to the total magnetic moments are found for f and sp atoms.</td>
+</tr>
+<tr id="bib_grechnev1995" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1995,
+  author = {Grechnev, G. E. and Svechkarev, I. V. and Fomenko, Yu. V. and Hjelm, A.},
+  title = {Electronic structure of intermetallic compounds HoIn3 and TmGa3},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1995},
+  volume = {21},
+  number = {3},
+  pages = {333-335},
+  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/21/21-3/f21-0333r.pdf}
 }
 </pre></td>
 </tr>
@@ -7447,32 +7531,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev1991" class="entry">
-	<td>Grechnev, G.E., Kvachantiradze, G.G., Papuashvili, N.A. and Kharebov, K.S.</td>
-	<td>Induced polymorphous transformations of molybdenum under carbon and nitrogen implantation <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1991','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1991','bibtex')">BibTeX</a>]</p></td>
-	<td>1991</td>
-	<td><font color="#006400">Zhurnal Tekhnicheskoj Fiziki</font><br/>Vol. 61(2), pp. 93-97&nbsp;</td>
-	<td><a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:24035055" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1991" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Possibility of induced polymorphous transformations of molybdenum by carbon and nitrogen implantation with formation of heterophase systemns Mo-MoC, Mo-Mo is indicated. Heterophase system free energies for different structural states of crystal matrix are calculated. Carbon and nitrogen criterial concentrations necessary critical concentrations necessary for molybdenum polymorphous transformations are identified.</td>
-</tr>
-<tr id="bib_grechnev1991" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1991,
-  author = {Grechnev, G. E. and Kvachantiradze, G. G. and Papuashvili, N. A. and Kharebov, K. S.},
-  title = {Induced polymorphous transformations of molybdenum under carbon and nitrogen implantation},
-  journal = {Zhurnal Tekhnicheskoj Fiziki},
-  year = {1991},
-  volume = {61},
-  number = {2},
-  pages = {93-97},
-  url = {https://inis.iaea.org/search/search.aspx?orig_q=RN:24035055}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Grechnev19917199" class="entry">
 	<td>Grechnev, G., Kubler, J. and Svechkarev, I.</td>
 	<td>Itinerant magnetism and electronic properties of FeGe2 <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev19917199','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev19917199','bibtex')">BibTeX</a>]</p></td>
@@ -7495,6 +7553,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {37},
   pages = {7199-7206},
   doi = {http://dx.doi.org/10.1088/0953-8984/3/37/012}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1991" class="entry">
+	<td>Grechnev, G.E., Kvachantiradze, G.G., Papuashvili, N.A. and Kharebov, K.S.</td>
+	<td>Induced polymorphous transformations of molybdenum under carbon and nitrogen implantation <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1991','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1991','bibtex')">BibTeX</a>]</p></td>
+	<td>1991</td>
+	<td><font color="#006400">Zhurnal Tekhnicheskoj Fiziki</font><br/>Vol. 61(2), pp. 93-97&nbsp;</td>
+	<td><a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:24035055" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1991" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Possibility of induced polymorphous transformations of molybdenum by carbon and nitrogen implantation with formation of heterophase systemns Mo-MoC, Mo-Mo is indicated. Heterophase system free energies for different structural states of crystal matrix are calculated. Carbon and nitrogen criterial concentrations necessary critical concentrations necessary for molybdenum polymorphous transformations are identified.</td>
+</tr>
+<tr id="bib_grechnev1991" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1991,
+  author = {Grechnev, G. E. and Kvachantiradze, G. G. and Papuashvili, N. A. and Kharebov, K. S.},
+  title = {Induced polymorphous transformations of molybdenum under carbon and nitrogen implantation},
+  journal = {Zhurnal Tekhnicheskoj Fiziki},
+  year = {1991},
+  volume = {61},
+  number = {2},
+  pages = {93-97},
+  url = {https://inis.iaea.org/search/search.aspx?orig_q=RN:24035055}
 }
 </pre></td>
 </tr>
@@ -7525,32 +7609,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev1990" class="entry">
-	<td>Grechnev, G.E. and Ushakova, N.V.</td>
-	<td>Band structure and stability of transition metal beryllides with CsCl structure <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1990','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1990','bibtex')">BibTeX</a>]</p></td>
-	<td>1990</td>
-	<td><font color="#006400">Metallofizika</font><br/>Vol. 12(2), pp. 6-10&nbsp;</td>
-	<td><a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:23041709" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1990" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Self-consistent calculations of electron structure of BeCo, BeNi, BeCu, BePb isostructural (CsCl) compounds are carried out by LMTO method in approximation of atomic spheres. In local approximation of electron density functional state equations derived from the first principles, equilibrium atomic volumes, bulk modulus and formation heats of these compounds as well as of a series of hypothetic Be compounds with other 3d-metals (with CsCl lattices) are obtained. The nature of stability of transition metal beryllides is discussed.</td>
-</tr>
-<tr id="bib_grechnev1990" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1990,
-  author = {Grechnev, G. E. and Ushakova, N. V.},
-  title = {Band structure and stability of transition metal beryllides with CsCl structure},
-  journal = {Metallofizika},
-  year = {1990},
-  volume = {12},
-  number = {2},
-  pages = {6-10},
-  url = {https://inis.iaea.org/search/search.aspx?orig_q=RN:23041709}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Zvyagina199035" class="entry">
 	<td>Zvyagina, G., Zherlitsyn, S., Fil, V. and Gurskas, A.</td>
 	<td>Elastic properties of csdy1-xgdk(eu)x(moo4)2 in the region of structural phase transitions <p class="infolinks">[<a href="javascript:toggleInfo('Zvyagina199035','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Zvyagina199035','bibtex')">BibTeX</a>]</p></td>
@@ -7573,6 +7631,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {1},
   pages = {35-39},
   doi = {http://dx.doi.org/10.1080/00150199008015286}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1990" class="entry">
+	<td>Grechnev, G.E. and Ushakova, N.V.</td>
+	<td>Band structure and stability of transition metal beryllides with CsCl structure <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1990','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1990','bibtex')">BibTeX</a>]</p></td>
+	<td>1990</td>
+	<td><font color="#006400">Metallofizika</font><br/>Vol. 12(2), pp. 6-10&nbsp;</td>
+	<td><a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:23041709" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1990" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Self-consistent calculations of electron structure of BeCo, BeNi, BeCu, BePb isostructural (CsCl) compounds are carried out by LMTO method in approximation of atomic spheres. In local approximation of electron density functional state equations derived from the first principles, equilibrium atomic volumes, bulk modulus and formation heats of these compounds as well as of a series of hypothetic Be compounds with other 3d-metals (with CsCl lattices) are obtained. The nature of stability of transition metal beryllides is discussed.</td>
+</tr>
+<tr id="bib_grechnev1990" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1990,
+  author = {Grechnev, G. E. and Ushakova, N. V.},
+  title = {Band structure and stability of transition metal beryllides with CsCl structure},
+  journal = {Metallofizika},
+  year = {1990},
+  volume = {12},
+  number = {2},
+  pages = {6-10},
+  url = {https://inis.iaea.org/search/search.aspx?orig_q=RN:23041709}
 }
 </pre></td>
 </tr>
@@ -7629,32 +7713,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="savchenko1989" class="entry">
-	<td>Savchenko, N.V. and Grechnev, G.E.</td>
-	<td>Anisotropy of conduction electron g-factors in molybdenum and tungsten <p class="infolinks">[<a href="javascript:toggleInfo('savchenko1989','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('savchenko1989','bibtex')">BibTeX</a>]</p></td>
-	<td>1989</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 15(6), pp. 656-659&nbsp;</td>
-	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/15/15-6/f15-0656r.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_savchenko1989" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The theoretical investigation of conduction electron g-factors in bcc transition metals molybdenum and tungsten is carried out. A pronounced anisotropy is found both for different extremal orbits on a given sheet and for different sheets of the Fermi surface in these metals.</td>
-</tr>
-<tr id="bib_savchenko1989" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{savchenko1989,
-  author = {Savchenko, N. V. and Grechnev, G. E.},
-  title = {Anisotropy of conduction electron g-factors in molybdenum and tungsten},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1989},
-  volume = {15},
-  number = {6},
-  pages = {656-659},
-  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/15/15-6/f15-0656r.pdf}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Svechkarev198935" class="entry">
 	<td>Svechkarev, I.</td>
 	<td>Effect of pressure on the magnetic susceptibility of transition metals <p class="infolinks">[<a href="javascript:toggleInfo('Svechkarev198935','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Svechkarev198935','bibtex')">BibTeX</a>]</p></td>
@@ -7707,6 +7765,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
+<tr id="savchenko1989" class="entry">
+	<td>Savchenko, N.V. and Grechnev, G.E.</td>
+	<td>Anisotropy of conduction electron g-factors in molybdenum and tungsten <p class="infolinks">[<a href="javascript:toggleInfo('savchenko1989','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('savchenko1989','bibtex')">BibTeX</a>]</p></td>
+	<td>1989</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 15(6), pp. 656-659&nbsp;</td>
+	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/15/15-6/f15-0656r.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_savchenko1989" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The theoretical investigation of conduction electron g-factors in bcc transition metals molybdenum and tungsten is carried out. A pronounced anisotropy is found both for different extremal orbits on a given sheet and for different sheets of the Fermi surface in these metals.</td>
+</tr>
+<tr id="bib_savchenko1989" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{savchenko1989,
+  author = {Savchenko, N. V. and Grechnev, G. E.},
+  title = {Anisotropy of conduction electron g-factors in molybdenum and tungsten},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1989},
+  volume = {15},
+  number = {6},
+  pages = {656-659},
+  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/15/15-6/f15-0656r.pdf}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
 <tr id="Vertii1988381" class="entry">
 	<td>Vertii, A., Zvyagina, G., Ivanchenko, I., Popenko, N., Tarapov, S. and Shestopalov, V.</td>
 	<td>Resonance cells for millimeter-band spectrometer operating at T < 1°K <p class="infolinks">[<a href="javascript:toggleInfo('Vertii1988381','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Vertii1988381','bibtex')">BibTeX</a>]</p></td>
@@ -7753,58 +7837,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {5},
   pages = {434-441},
   doi = {http://dx.doi.org/10.1007/BF01043607}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="Grechnev19871219" class="entry">
-	<td>Grechnev, G., Savchenko, N., Svechkarev, I., Antonov, V., Zhalko-Titarenko, A., Lee, M. and Perz, J.</td>
-	<td>Anisotropy of conduction electrons zeeman splitting in palladium and gold <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev19871219','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev19871219','bibtex')">BibTeX</a>]</p></td>
-	<td>1987</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 13(11), pp. 1219-1222&nbsp;</td>
-	<td><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023456032&partnerID=40&md5=a38d6b8f5c223bd508aceda2c1128421" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_Grechnev19871219" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The theoretical investigation of conduction electron g-factors in palladium and gold is carried out. It is established that g-factors deviate considerably from the free-electron value for some Fermi surface sheets of these metals. A pronounced anisotropy is found for the extremal orbits on the GAMMA //6 sheet and X-pockets in palladium. The results are in general agreement with data from DHVA and CESR experiments.</td>
-</tr>
-<tr id="bib_Grechnev19871219" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{Grechnev19871219,
-  author = {Grechnev, G.E. and Savchenko, N.V. and Svechkarev, I.V. and Antonov, V.N. and Zhalko-Titarenko, A.V. and Lee, M.J.G. and Perz, J.M.},
-  title = {Anisotropy of conduction electrons zeeman splitting in palladium and gold},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1987},
-  volume = {13},
-  number = {11},
-  pages = {1219-1222},
-  url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023456032&amp;partnerID=40&amp;md5=a38d6b8f5c223bd508aceda2c1128421}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="grechnev1987-p547" class="entry">
-	<td>Grechnev, G.E. and Svechkarev, I.V.</td>
-	<td>Electronic structure and magnetic properties of intermatallic compound TiCo <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1987-p547','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1987-p547','bibtex')">BibTeX</a>]</p></td>
-	<td>1987</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 13(5), pp. 547-551&nbsp;</td>
-	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/13/13-5/f13-0547r.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1987-p547" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The theoretical investigation of the electronic structure and thermodynamical properties of the compound TiCo is carried out at low temperatures. The origin of the compound stability is established. It is proved that the high exchange enhancement of spin susceptibility takes place in TiCo. The coexistance of strong paramagnetism and the superconductivity in TiCo is explained. The parameters of electron-phonon and electron-paramagnon interactions are determined.</td>
-</tr>
-<tr id="bib_grechnev1987-p547" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1987-p547,
-  author = {Grechnev, G. E. and Svechkarev, I. V.},
-  title = {Electronic structure and magnetic properties of intermatallic compound TiCo},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1987},
-  volume = {13},
-  number = {5},
-  pages = {547-551},
-  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/13/13-5/f13-0547r.pdf}
 }
 </pre></td>
 </tr>
@@ -7862,6 +7894,58 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
+<tr id="Grechnev19871219" class="entry">
+	<td>Grechnev, G., Savchenko, N., Svechkarev, I., Antonov, V., Zhalko-Titarenko, A., Lee, M. and Perz, J.</td>
+	<td>Anisotropy of conduction electrons zeeman splitting in palladium and gold <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev19871219','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev19871219','bibtex')">BibTeX</a>]</p></td>
+	<td>1987</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 13(11), pp. 1219-1222&nbsp;</td>
+	<td><a href="https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023456032&partnerID=40&md5=a38d6b8f5c223bd508aceda2c1128421" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_Grechnev19871219" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The theoretical investigation of conduction electron g-factors in palladium and gold is carried out. It is established that g-factors deviate considerably from the free-electron value for some Fermi surface sheets of these metals. A pronounced anisotropy is found for the extremal orbits on the GAMMA //6 sheet and X-pockets in palladium. The results are in general agreement with data from DHVA and CESR experiments.</td>
+</tr>
+<tr id="bib_Grechnev19871219" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{Grechnev19871219,
+  author = {Grechnev, G.E. and Savchenko, N.V. and Svechkarev, I.V. and Antonov, V.N. and Zhalko-Titarenko, A.V. and Lee, M.J.G. and Perz, J.M.},
+  title = {Anisotropy of conduction electrons zeeman splitting in palladium and gold},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1987},
+  volume = {13},
+  number = {11},
+  pages = {1219-1222},
+  url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023456032&amp;partnerID=40&amp;md5=a38d6b8f5c223bd508aceda2c1128421}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1987-p547" class="entry">
+	<td>Grechnev, G.E. and Svechkarev, I.V.</td>
+	<td>Electronic structure and magnetic properties of intermatallic compound TiCo <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1987-p547','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1987-p547','bibtex')">BibTeX</a>]</p></td>
+	<td>1987</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 13(5), pp. 547-551&nbsp;</td>
+	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/13/13-5/f13-0547r.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1987-p547" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The theoretical investigation of the electronic structure and thermodynamical properties of the compound TiCo is carried out at low temperatures. The origin of the compound stability is established. It is proved that the high exchange enhancement of spin susceptibility takes place in TiCo. The coexistance of strong paramagnetism and the superconductivity in TiCo is explained. The parameters of electron-phonon and electron-paramagnon interactions are determined.</td>
+</tr>
+<tr id="bib_grechnev1987-p547" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1987-p547,
+  author = {Grechnev, G. E. and Svechkarev, I. V.},
+  title = {Electronic structure and magnetic properties of intermatallic compound TiCo},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1987},
+  volume = {13},
+  number = {5},
+  pages = {547-551},
+  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/13/13-5/f13-0547r.pdf}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
 <tr id="Grechnev1986186" class="entry">
 	<td>Grechnev, G., Svechkarev, I. and Ushakova, N.</td>
 	<td>Influence of temperature on the electronic energy spectrum of aluminium <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev1986186','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev1986186','bibtex')">BibTeX</a>]</p></td>
@@ -7914,32 +7998,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev1985" class="entry">
-	<td>Grechnev, G.E.</td>
-	<td>Effect of high intensity ultrasound on band structure of metals <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1985','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1985','bibtex')">BibTeX</a>]</p></td>
-	<td>1985</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 11(1), pp. 102-106&nbsp;</td>
-	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/11/11-1/f11-0102r.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1985" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The band structure of the nontransition metal electron spectrum is calculated by the pseudopotential method in the presence of a standing ultrasonic wave. It is found that near the Brillouin zone faces the superstructural splittings in the spectrum induced by an additional long period are governed by the Umklapp-time electron transitions and significantly exceed "sonic" gaps near the conduction zone bottom. The main energy gaps on the Bragg planes corresponding to the reciprocal lattice vectors G, which are quasi-collinear with respect to the sound amplitude u0, decrease essentially as u0 increases.</td>
-</tr>
-<tr id="bib_grechnev1985" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1985,
-  author = {Grechnev, G. E.},
-  title = {Effect of high intensity ultrasound on band structure of metals},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1985},
-  volume = {11},
-  number = {1},
-  pages = {102-106},
-  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/11/11-1/f11-0102r.pdf}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Grechnev198589" class="entry">
 	<td>Grechnev, G. and Svechkarev, I.</td>
 	<td>Magnetic susceptibility of Be//1//0//0// minus //xCu//x alloys <p class="infolinks">[<a href="javascript:toggleInfo('Grechnev198589','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Grechnev198589','bibtex')">BibTeX</a>]</p></td>
@@ -7962,6 +8020,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {4},
   pages = {89-95},
   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0022302161&amp;partnerID=40&amp;md5=e3c4aa7df031388b976ce94ba2b01237}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1985" class="entry">
+	<td>Grechnev, G.E.</td>
+	<td>Effect of high intensity ultrasound on band structure of metals <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1985','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1985','bibtex')">BibTeX</a>]</p></td>
+	<td>1985</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 11(1), pp. 102-106&nbsp;</td>
+	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/11/11-1/f11-0102r.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1985" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The band structure of the nontransition metal electron spectrum is calculated by the pseudopotential method in the presence of a standing ultrasonic wave. It is found that near the Brillouin zone faces the superstructural splittings in the spectrum induced by an additional long period are governed by the Umklapp-time electron transitions and significantly exceed "sonic" gaps near the conduction zone bottom. The main energy gaps on the Bragg planes corresponding to the reciprocal lattice vectors G, which are quasi-collinear with respect to the sound amplitude u0, decrease essentially as u0 increases.</td>
+</tr>
+<tr id="bib_grechnev1985" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1985,
+  author = {Grechnev, G. E.},
+  title = {Effect of high intensity ultrasound on band structure of metals},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1985},
+  volume = {11},
+  number = {1},
+  pages = {102-106},
+  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/11/11-1/f11-0102r.pdf}
 }
 </pre></td>
 </tr>
@@ -8070,32 +8154,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="khotkevich1984" class="entry">
-	<td>Khotkevich, V.V., Pluzhnikov, V.B., Svechkarev, I.V., Grechnev, G.E., Anderson, D.R. and Pikett, U.</td>
-	<td>Electron energy spectrum and De Haas-Van Alphen effect in Cd3Mg ordered compound <p class="infolinks">[<a href="javascript:toggleInfo('khotkevich1984','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('khotkevich1984','bibtex')">BibTeX</a>]</p></td>
-	<td>1984</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 10(4), pp. 431-434&nbsp;</td>
-	<td><a href="https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=16035775" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_khotkevich1984" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: De Haas-van Alphen oscillations are observed in the ordered intermetallic compound Cd3Mg at 1.5 to 4.2 K in the field up to 70 kG. The angular dependence of frequency oscillations in the range of 2.1 to 6.0 MG is studied. Effective masses of carriers and the Dingle temperature are measUred for some characteristic orientations of the magnetic field With respect to the crystal axes. The band structure of Cd3Mg is calculated on the basis of the model Animalu-Heine pseudopotentials. The model Fermi surface of Cd3Mg, is constructed and the interpretation of the oscillations observed experimentally is proposed.</td>
-</tr>
-<tr id="bib_khotkevich1984" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{khotkevich1984,
-  author = {Khotkevich, V. V. and Pluzhnikov, V. B. and Svechkarev, I. V. and Grechnev, G. E. and Anderson, D. R. and Pikett, U.},
-  title = {Electron energy spectrum and De Haas-Van Alphen effect in Cd3Mg ordered compound},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1984},
-  volume = {10},
-  number = {4},
-  pages = {431-434},
-  url = {https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&amp;RN=16035775}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Pluzhnikov19842411" class="entry">
 	<td>Pluzhnikov, V., Maszkiewicz, M. and Fawcett, E.</td>
 	<td>Magnetostriction of dilute hydrogenated palladium-rhodium alloys <p class="infolinks">[<a href="javascript:toggleInfo('Pluzhnikov19842411','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Pluzhnikov19842411','bibtex')">BibTeX</a>]</p></td>
@@ -8118,6 +8176,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {10},
   pages = {2411-2418},
   doi = {http://dx.doi.org/10.1088/0305-4608/14/10/019}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="khotkevich1984" class="entry">
+	<td>Khotkevich, V.V., Pluzhnikov, V.B., Svechkarev, I.V., Grechnev, G.E., Anderson, D.R. and Pikett, U.</td>
+	<td>Electron energy spectrum and De Haas-Van Alphen effect in Cd3Mg ordered compound <p class="infolinks">[<a href="javascript:toggleInfo('khotkevich1984','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('khotkevich1984','bibtex')">BibTeX</a>]</p></td>
+	<td>1984</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 10(4), pp. 431-434&nbsp;</td>
+	<td><a href="https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=16035775" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_khotkevich1984" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: De Haas-van Alphen oscillations are observed in the ordered intermetallic compound Cd3Mg at 1.5 to 4.2 K in the field up to 70 kG. The angular dependence of frequency oscillations in the range of 2.1 to 6.0 MG is studied. Effective masses of carriers and the Dingle temperature are measUred for some characteristic orientations of the magnetic field With respect to the crystal axes. The band structure of Cd3Mg is calculated on the basis of the model Animalu-Heine pseudopotentials. The model Fermi surface of Cd3Mg, is constructed and the interpretation of the oscillations observed experimentally is proposed.</td>
+</tr>
+<tr id="bib_khotkevich1984" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{khotkevich1984,
+  author = {Khotkevich, V. V. and Pluzhnikov, V. B. and Svechkarev, I. V. and Grechnev, G. E. and Anderson, D. R. and Pikett, U.},
+  title = {Electron energy spectrum and De Haas-Van Alphen effect in Cd3Mg ordered compound},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1984},
+  volume = {10},
+  number = {4},
+  pages = {431-434},
+  url = {https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&amp;RN=16035775}
 }
 </pre></td>
 </tr>
@@ -8331,32 +8415,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 </pre></td>
 </tr>
 <!-- ###################################################################################################################### -->
-<tr id="grechnev1980" class="entry">
-	<td>Grechnev, G.E., Svechkarev, I.V. and J.W., M.</td>
-	<td>Magnetic properties and energy spectrum of Cd[1-x]Mg[x] alloys <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1980','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1980','bibtex')">BibTeX</a>]</p></td>
-	<td>1980</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 6(3), pp. 324-331&nbsp;</td>
-	<td><a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:13644677" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1980" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: Magnetic properties of the Cd[1-x]Mg[x] alloys are analyzed using the magnetism theory of conduction electrons suggested by Fukuhama as well as the model kxp hamiltonian. The experimental information on the effect of admixture scattering on the peculiarities of magnetic susceptibility is also used. Calculations of magnetic susceptibility are compared with experimental data. Parameters of the energy spectrum of pure cadmium are determined. They agree well with the results of direct spectrum calculation in the framework of the model of non-local Stark-Auluk pseudopotential. The behaviour of spectrum parameters during the introduction of isovalent (up to 12 at% of magnesium) in the range of low temperatures (T approximately equal to 20 K) is determined.</td>
-</tr>
-<tr id="bib_grechnev1980" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1980,
-  author = {Grechnev, G. E. and Svechkarev, I. V. and McCLURE J.W.},
-  title = {Magnetic properties and energy spectrum of Cd[1-x]Mg[x] alloys},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1980},
-  volume = {6},
-  number = {3},
-  pages = {324-331},
-  url = {https://inis.iaea.org/search/search.aspx?orig_q=RN:13644677}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
 <tr id="Perz1980194" class="entry">
 	<td>Perz, J., Svechkarev, I. and Templeton, I.</td>
 	<td>Hydrostatic pressure dependence of the fermi surface of rhenium <p class="infolinks">[<a href="javascript:toggleInfo('Perz1980194','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Perz1980194','bibtex')">BibTeX</a>]</p></td>
@@ -8405,6 +8463,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {3},
   pages = {297-299},
   doi = {http://dx.doi.org/10.1016/0038-1098(80)90501-3}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1980" class="entry">
+	<td>Grechnev, G.E., Svechkarev, I.V. and J.W., M.</td>
+	<td>Magnetic properties and energy spectrum of Cd[1-x]Mg[x] alloys <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1980','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1980','bibtex')">BibTeX</a>]</p></td>
+	<td>1980</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 6(3), pp. 324-331&nbsp;</td>
+	<td><a href="https://inis.iaea.org/search/search.aspx?orig_q=RN:13644677" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1980" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: Magnetic properties of the Cd[1-x]Mg[x] alloys are analyzed using the magnetism theory of conduction electrons suggested by Fukuhama as well as the model kxp hamiltonian. The experimental information on the effect of admixture scattering on the peculiarities of magnetic susceptibility is also used. Calculations of magnetic susceptibility are compared with experimental data. Parameters of the energy spectrum of pure cadmium are determined. They agree well with the results of direct spectrum calculation in the framework of the model of non-local Stark-Auluk pseudopotential. The behaviour of spectrum parameters during the introduction of isovalent (up to 12 at% of magnesium) in the range of low temperatures (T approximately equal to 20 K) is determined.</td>
+</tr>
+<tr id="bib_grechnev1980" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1980,
+  author = {Grechnev, G. E. and Svechkarev, I. V. and McCLURE J.W.},
+  title = {Magnetic properties and energy spectrum of Cd[1-x]Mg[x] alloys},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1980},
+  volume = {6},
+  number = {3},
+  pages = {324-331},
+  url = {https://inis.iaea.org/search/search.aspx?orig_q=RN:13644677}
 }
 </pre></td>
 </tr>
@@ -8478,32 +8562,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {3},
   pages = {502-505},
   url = {http://www.jetp.ac.ru/cgi-bin/e/index/e/48/3/p502?a=list}
-}
-</pre></td>
-</tr>
-<!-- ###################################################################################################################### -->
-<tr id="grechnev1977" class="entry">
-	<td>Grechnev, G.E. and Svechkarev, I.V.</td>
-	<td>Effect of energy spectrum features on the orbital magnetism in beryllium <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1977','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1977','bibtex')">BibTeX</a>]</p></td>
-	<td>1977</td>
-	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 3(6), pp. 770-777&nbsp;</td>
-	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/3/3-6/f03-0770r.pdf" target="_blank">URL</a>&nbsp;</td>
-</tr>
-<tr id="abs_grechnev1977" class="abstract noshow">
-	<td colspan="7"><b>Abstract</b>: The contributions to the orbital susceptibility of beryllium coming from the weakly splitted states located near the Fermi level has been calculated. It is shown that the temperature dependence of the susceptibility is determined by the states on the thin horizontal necks of the hole Fermi surface in the second band. The numerically calculated temperature dependence of the susceptibility is in a fair agreement with experiment.</td>
-</tr>
-<tr id="bib_grechnev1977" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@article{grechnev1977,
-  author = {Grechnev, G. E. and Svechkarev, I. V.},
-  title = {Effect of energy spectrum features on the orbital magnetism in beryllium},
-  journal = {Fizika Nizkikh Temperatur},
-  year = {1977},
-  volume = {3},
-  number = {6},
-  pages = {770-777},
-  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/3/3-6/f03-0770r.pdf}
 }
 </pre></td>
 </tr>
@@ -8608,6 +8666,32 @@ in the form below and the results will be <b>immediately</b> filtered according 
   number = {2},
   pages = {97-99},
   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-0017453353&amp;partnerID=40&amp;md5=afe6a9e289d38d23c09051148b1f7a6f}
+}
+</pre></td>
+</tr>
+<!-- ###################################################################################################################### -->
+<tr id="grechnev1977" class="entry">
+	<td>Grechnev, G.E. and Svechkarev, I.V.</td>
+	<td>Effect of energy spectrum features on the orbital magnetism in beryllium <p class="infolinks">[<a href="javascript:toggleInfo('grechnev1977','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('grechnev1977','bibtex')">BibTeX</a>]</p></td>
+	<td>1977</td>
+	<td><font color="#006400">Fizika Nizkikh Temperatur</font><br/>Vol. 3(6), pp. 770-777&nbsp;</td>
+	<td><a href="http://fnte.ilt.kharkov.ua/fnt/pdf/3/3-6/f03-0770r.pdf" target="_blank">URL</a>&nbsp;</td>
+</tr>
+<tr id="abs_grechnev1977" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: The contributions to the orbital susceptibility of beryllium coming from the weakly splitted states located near the Fermi level has been calculated. It is shown that the temperature dependence of the susceptibility is determined by the states on the thin horizontal necks of the hole Fermi surface in the second band. The numerically calculated temperature dependence of the susceptibility is in a fair agreement with experiment.</td>
+</tr>
+<tr id="bib_grechnev1977" class="bibtex noshow">
+<td colspan="7"><b>BibTeX</b>:
+<pre>
+@article{grechnev1977,
+  author = {Grechnev, G. E. and Svechkarev, I. V.},
+  title = {Effect of energy spectrum features on the orbital magnetism in beryllium},
+  journal = {Fizika Nizkikh Temperatur},
+  year = {1977},
+  volume = {3},
+  number = {6},
+  pages = {770-777},
+  url = {http://fnte.ilt.kharkov.ua/fnt/pdf/3/3-6/f03-0770r.pdf}
 }
 </pre></td>
 </tr>
@@ -8927,7 +9011,6 @@ in the form below and the results will be <b>immediately</b> filtered according 
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
-
 </tbody>
 </table>
 

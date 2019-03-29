@@ -7,6 +7,7 @@ cat begin_html header_en date-en_begin date_current date_end publications_en end
 cat begin_html header_en date-en_begin date_current date_end dissertations_en end_html > ../en/dissertations.html
 cat begin_html header_en date-en_begin date_current date_end collaboration_en end_html > ../en/collaboration.html
 cat begin_html header_en date-en_begin date_current date_end photo_en end_html > ../en/photo.html
+cat begin_html header_en date-en_begin date_current date_end photo_history_en end_html > ../en/photo_history.html
 cat begin_html header_en date-en_begin date_current date_end contacts_en end_html > ../en/contacts.html
 cat begin_html header_en date-en_begin date_current date_end g_calculations_en end_html > ../en/g_calculations.html
 cat begin_html header_en date-en_begin date_current date_end g_pressure_en end_html > ../en/g_pressure.html
@@ -21,6 +22,7 @@ cat begin_html header_ru date-ru_begin date_current date_end publications_ru end
 cat begin_html header_ru date-ru_begin date_current date_end dissertations_ru end_html > ../ru/dissertations.html
 cat begin_html header_ru date-ru_begin date_current date_end collaboration_ru end_html > ../ru/collaboration.html
 cat begin_html header_ru date-ru_begin date_current date_end photo_ru end_html > ../ru/photo.html
+cat begin_html header_ru date-ru_begin date_current date_end photo_history_ru end_html > ../ru/photo_history.html
 cat begin_html header_ru date-ru_begin date_current date_end contacts_ru end_html > ../ru/contacts.html
 cat begin_html header_ru date-ru_begin date_current date_end g_calculations_ru end_html > ../ru/g_calculations.html
 cat begin_html header_ru date-ru_begin date_current date_end g_pressure_ru end_html > ../ru/g_pressure.html
@@ -35,6 +37,7 @@ cat begin_html header_ua date-ua_begin date_current date_end publications_ua end
 cat begin_html header_ua date-ua_begin date_current date_end dissertations_ua end_html > ../ua/dissertations.html
 cat begin_html header_ua date-ua_begin date_current date_end collaboration_ua end_html > ../ua/collaboration.html
 cat begin_html header_ua date-ua_begin date_current date_end photo_ua end_html > ../ua/photo.html
+cat begin_html header_ua date-ua_begin date_current date_end photo_history_ua end_html > ../ua/photo_history.html
 cat begin_html header_ua date-ua_begin date_current date_end contacts_ua end_html > ../ua/contacts.html
 cat begin_html header_ua date-ua_begin date_current date_end g_calculations_ua end_html > ../ua/g_calculations.html
 cat begin_html header_ua date-ua_begin date_current date_end g_pressure_ua end_html > ../ua/g_pressure.html

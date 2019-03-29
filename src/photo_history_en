@@ -1,0 +1,347 @@
+
+<div class="navigation-menu-container" align="center">
+<div class="navigation-menu">
+    <ul>
+        <li><a href="../en/home.html">Home</a></li>
+        <li><a href="../en/staff.html">Staff</a></li>
+        <li>
+            <a href="../en/research.html">Research</a>
+            <ul>
+                <li><a href="../en/g_calculations.html">Calculations</a></li>
+                <li><a href="../en/g_pressure.html">Pressure</a></li>
+                <li><a href="../en/g_squid.html">SQUID</a></li>
+                <li><a href="../en/g_ultrasound.html">Ultrasound</a></li>
+                <li><a href="../en/g_xray.html">X-ray</a></li>                              
+            </ul>
+        </li>
+        <li><a href="../en/publications.html">Publications</a></li>        
+        <li><a href="../en/dissertations.html">Dissertations</a></li>
+        <li><a href="../en/collaboration.html">Collaboration</a></li>
+        <li><a href="../en/photo.html" class="active">Photo</a></li>
+        <li><a href="../en/contacts.html">Contacts</a></li>
+    </ul>
+</div>
+</div>
+
+<div class="language-switcher-container" align="right">
+<div class="language-switcher">
+    <ul>
+        <li><a href="../ua/photo_history.html">UA</a></li>
+        <li><a href="../ru/photo_history.html">RU</a></li>
+    </ul>
+</div>
+</div>
+
+</div> <!-- controls-container -->
+
+</div> <!-- header-container -->
+
+<center>
+<div class="page-photo-history">
+
+<h2>Photo gallery (history)</h2>
+<hr width="30%" size="1" noshade color="black">
+
+<p>
+This page contains photos with <b>former</b> Department's employees. 
+To see photos with <b>active</b> Department's employees please follow this 
+<a href="../en/photo.html">link</a>.
+</p>
+
+<br>
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- <a href="#"><img SRC="../media/photo/orgnl/main_24.png"></a> -->
+
+ <div class="photo-frame">
+
+     <div id="galleria">
+
+         <a href="../media/photo/inactive/gp_department-2010.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_department-2010.jpg",
+                 data-big="../media/photo/inactive/gp_department-2010.jpg"
+                 data-title="Department of Magnetic and Elastic Properties of Solids"
+                 data-description="Group photo, 2010"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/svechkarev_40373-00.jpg">
+             <img 
+                 src=     "../media/photo/inactive/svechkarev_40373-00.jpg",
+                 data-big="../media/photo/inactive/svechkarev_40373-00.jpg"
+                 data-title="Igor V. Svechkarev"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/svechkarev_40373-02.jpg">
+             <img 
+                 src=     "../media/photo/inactive/svechkarev_40373-02.jpg",
+                 data-big="../media/photo/inactive/svechkarev_40373-02.jpg"
+                 data-title="Igor V. Svechkarev"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/svechkarev_40373-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/svechkarev_40373-01.jpg",
+                 data-big="../media/photo/inactive/svechkarev_40373-01.jpg"
+                 data-title="Igor V. Svechkarev"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/svechkarev_40373-03.jpg">
+             <img 
+                 src=     "../media/photo/inactive/svechkarev_40373-03.jpg",
+                 data-big="../media/photo/inactive/svechkarev_40373-03.jpg"
+                 data-title="Igor V. Svechkarev"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_svechkarev70.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_svechkarev70.jpg",
+                 data-big="../media/photo/inactive/gp_svechkarev70.jpg"
+                 data-title="Igor V. Svechkarev on his 70th birthday"
+                 data-description="Group photo, 2005"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/eremenko_02960-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/eremenko_02960-01.jpg",
+                 data-big="../media/photo/inactive/eremenko_02960-01.jpg"
+                 data-title="Victor V. Eremenko"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/pluzhnikov_01900-00.jpg">
+             <img 
+                 src=     "../media/photo/inactive/pluzhnikov_01900-00.jpg",
+                 data-big="../media/photo/inactive/pluzhnikov_01900-00.jpg"
+                 data-title="Vasiliy B. Pluzhnikov"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/pluzhnikov_01900-04.jpg">
+             <img 
+                 src=     "../media/photo/inactive/pluzhnikov_01900-04.jpg",
+                 data-big="../media/photo/inactive/pluzhnikov_01900-04.jpg"
+                 data-title="Vasiliy B. Pluzhnikov"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/pluzhnikov_01900-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/pluzhnikov_01900-01.jpg",
+                 data-big="../media/photo/inactive/pluzhnikov_01900-01.jpg"
+                 data-title="Vasiliy B. Pluzhnikov"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_ultrasound_group.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_ultrasound_group.jpg",
+                 data-big="../media/photo/inactive/gp_ultrasound_group.jpg"
+                 data-title="Research group: Elastic, magnetoelastic, magneto- and 
+                 piezoelectric properties of solids"
+                 data-description="Group photo, 2010"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/baranovskiy_75800-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/baranovskiy_75800-01.jpg",
+                 data-big="../media/photo/inactive/baranovskiy_75800-01.jpg"
+                 data-title="Andrey E. Baranovskiy"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/logosha_20300-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/logosha_20300-01.jpg",
+                 data-big="../media/photo/inactive/logosha_20300-01.jpg"
+                 data-title="Alexey V. Logosha"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/shabakayeva_36543-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/shabakayeva_36543-01.jpg",
+                 data-big="../media/photo/inactive/shabakayeva_36543-01.jpg"
+                 data-title="Yulia A. Shabakaeva"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/pushkar_77503-02.jpg">
+             <img 
+                 src=     "../media/photo/inactive/pushkar_77503-02.jpg",
+                 data-big="../media/photo/inactive/pushkar_77503-02.jpg"
+                 data-title="Yuriy Ya. Pushkar"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/pushkar_77503-01.jpg">
+             <img 
+                 src=     "../media/photo/inactive/pushkar_77503-01.jpg",
+                 data-big="../media/photo/inactive/pushkar_77503-01.jpg"
+                 data-title="Yuriy Ya. Pushkar"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/snurnikov_99999-00.jpg">
+             <img 
+                 src=     "../media/photo/inactive/snurnikov_99999-00.jpg",
+                 data-big="../media/photo/inactive/snurnikov_99999-00.jpg"
+                 data-title="Anatoliy I. Snurnikov"
+                 data-description=""
+             >
+         </a>
+         <a href="../media/photo/inactive/gp_snurnikov-svechkarev.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_snurnikov-svechkarev.jpg",
+                 data-big="../media/photo/inactive/gp_snurnikov-svechkarev.jpg"
+                 data-title="Anatoliy I. Snurnikov and Igor V. Svechkarev"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/dolgopolov_dmitriy_grigorievich.jpg">
+             <img 
+                 src=     "../media/photo/inactive/dolgopolov_dmitriy_grigorievich.jpg",
+                 data-big="../media/photo/inactive/dolgopolov_dmitriy_grigorievich.jpg"
+                 data-title="Dmitriy G. Dolgopolov"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/zhukov_viktor_vladimirovich.jpg">
+             <img 
+                 src=     "../media/photo/inactive/zhukov_viktor_vladimirovich.jpg",
+                 data-big="../media/photo/inactive/zhukov_viktor_vladimirovich.jpg"
+                 data-title="Viktor V. Zhukov"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/konotop_dmitriy_alexandrovich.jpg">
+             <img 
+                 src=     "../media/photo/inactive/konotop_dmitriy_alexandrovich.jpg",
+                 data-big="../media/photo/inactive/konotop_dmitriy_alexandrovich.jpg"
+                 data-title="Dmitriy A. Konotop"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/poltoratskii_vladimir_ivanovich.jpg">
+             <img 
+                 src=     "../media/photo/inactive/poltoratskii_vladimir_ivanovich.jpg",
+                 data-big="../media/photo/inactive/poltoratskii_vladimir_ivanovich.jpg"
+                 data-title="Vladimir I. Poltoratskii"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/sereda_yuriy_pavlovich.jpg">
+             <img 
+                 src=     "../media/photo/inactive/sereda_yuriy_pavlovich.jpg",
+                 data-big="../media/photo/inactive/sereda_yuriy_pavlovich.jpg"
+                 data-title="Yuriy P. Sereda"
+                 data-description=""
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_pluzhnikov_group.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_pluzhnikov_group.jpg",
+                 data-big="../media/photo/inactive/gp_pluzhnikov_group.jpg"
+                 data-title="Vasiliy B. Pluzhnikov and his research group"
+                 data-description="Sergey V. Krajnukov, Sergey A. Vorontsov, Igor Krasnopolskii, 
+                 Vladimir V. Khotkevich, and Vasiliy B. Pluzhnikov"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_pluzhnikov-women.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_pluzhnikov-women.jpg",
+                 data-big="../media/photo/inactive/gp_pluzhnikov-women.jpg"
+                 data-title="Vasiliy B. Pluzhnikov and women. Tea"
+                 data-description="Team building in the forest, 1980"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_prytkin-panfilov-krajnukova.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_prytkin-panfilov-krajnukova.jpg",
+                 data-big="../media/photo/inactive/gp_prytkin-panfilov-krajnukova.jpg"
+                 data-title="Singing"
+                 data-description="Viktor Prytkin, Anatoliy S. Panfilov, and Nina V. Krajnukova<br> 
+                 Team building in the forest, 1980"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_pluzhnikov-grechnev-ozerov.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_pluzhnikov-grechnev-ozerov.jpg",
+                 data-big="../media/photo/inactive/gp_pluzhnikov-grechnev-ozerov.jpg"
+                 data-title="Three baked potatoes. Tea"
+                 data-description="Vasiliy B. Pluzhnikov, Gennadiy G. Grechnev, and Mikhail Ozerov<br> 
+                 Team building in the forest, 1980"
+             >
+         </a>
+
+         <a href="../media/photo/inactive/gp_khotkevich-pluzhnikov-krajnukov.jpg">
+             <img 
+                 src=     "../media/photo/inactive/gp_khotkevich-pluzhnikov-krajnukov.jpg",
+                 data-big="../media/photo/inactive/gp_khotkevich-pluzhnikov-krajnukov.jpg"
+                 data-title="Trio. Tea"
+                 data-description="Vladimir V. Khotkevich, Vasiliy B. Pluzhnikov, and Sergey V. Krajnukov<br> 
+                 Team building in the forest, 1980"
+             >
+         </a>
+
+     </div> <!-- galleria -->
+
+
+
+    <!-- load jQuery -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.js"></script> -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script> -->
+
+	 <script src="../scripts/jquery_v-2-2-4.js"></script>
+
+    <!-- load Galleria -->
+<!--     <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/galleria.min.js"></script> -->
+<!--     <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js"></script> -->
+
+    <script src="../scripts/galleria-1.5.7.js"></script>
+    <script src="../scripts/galleria.classic.min.js"></script>
+
+    <script>
+        $(function() {
+            Galleria.run('#galleria');
+        });
+    </script>
+    
+ </div> <!-- photo-frame -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+<!-- ***************************************************************************************************************************************** -->
+
+</div></center>
+
+
+<br>
+<br>
