@@ -1,0 +1,124 @@
+% This file was created with JabRef 2.10.
+% Encoding: ISO8859_1
+
+
+@Phdthesis{drsc_grechnev,
+  Title                    = {Electronic structure of <i>d</i>- and <i>f</i>-metal compounds: effects of hybridisation and spin polarization},
+  Author                   = {Grechnev, G. E.},
+  Note                     = {DrSc},
+  Type                     = {Doctor of Sciences<br>(DrSc.)},
+  Year                     = {2008},
+
+  Timestamp                = {2008.mm.dd}
+}
+
+@Phdthesis{drsc_sirenko,
+  Title                    = {Hysteresis and magnetostriction effects in heterogeneity compounds at low temperatures},
+  Author                   = {Sirenko, V. A.},
+  Note                     = {DrSc},
+  Type                     = {Doctor of Sciences<br>(DrSc.)},
+  Year                     = {1999},
+
+  Timestamp                = {1999.mm.dd}
+}
+
+@Phdthesis{drsc_fil,
+  Title                    = {The interaction of high-frequency sound waves with electrons in metals},
+  Author                   = {Fil, V. D.},
+  Note                     = {DrSc},
+  Type                     = {Doctor of Sciences<br>(DrSc.)},
+  Year                     = {1983},
+
+  Timestamp                = {1983.mm.dd}
+}
+
+@Phdthesis{phd_kolodiazhna,
+  Title                    = {Magnetoelastic and piezomagnetoelectric effects in the multiferroics Nd<sub>0.9</sub>Dy<sub>0.1</sub>Fe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>, SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> and LiCoPO<sub>4</sub>},
+  Author                   = {Kolodiazhna, M. P.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2020},
+
+  Timestamp                = {2020.07.28}
+}
+
+@Phdthesis{phd_bondar,
+  Title                    = {Effect of the crystal structure inhomogeneities on electronic properties of a hexagonal modification of niobium dichalcogenide and graphene},
+  Author                   = {Bondar, I. S.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2019},
+
+  Timestamp                = {2019.02.13}
+}
+
+@Phdthesis{phd_zhekov,
+  Title                    = {Magneto-elastic effects in rare-earth borocarbides and ferroborates},
+  Author                   = {Zhekov, K. R.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2020},
+
+  Timestamp                = {2019.02.13}
+}
+
+@Phdthesis{phd_kobzar,
+  Title                    = {Magnetoelastic properties of narrow-band systems based on <i>4f</i> and <i>3d</i> metals},
+  Author                   = {Kobzar, I. P.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2018},
+
+  Timestamp                = {2018.mm.dd}
+}
+
+@Phdthesis{phd_lyogenkaya,
+  Title                    = {Manifestations of the features of the electronic structure in the magnetic and superconducting properties of layered compounds of transition metals with metalloids},
+  Author                   = {Lyogenkaya, A. A.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2017},
+
+  Timestamp                = {2017.mm.dd}
+}
+
+@Phdthesis{phd_fedorchenko,
+  Title                    = {Magnetic and magnetoelastic properties of anisotropic metallic systems based on <i>d</i>-elements},
+  Author                   = {Fedorchenko, A. V.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2012},
+
+  Timestamp                = {2012.12.18}
+}
+
+@Phdthesis{phd_zvyagina,
+  Title                    = {Elastic properties of ferroelastics in the vicinity of phase transitions},
+  Author                   = {Zvyagina, G. A.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {2004},
+
+  Timestamp                = {2004.mm.dd}
+}
+
+@Phdthesis{phd_grechnev,
+  Title                    = {Effect of temperature, impurities and pressure on the energy spectrum and magnetism in the hexagonal metals},
+  Author                   = {Grechnev, G. E.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {1982},
+
+  Timestamp                = {1982.mm.dd}
+}
+
+@Phdthesis{phd_panfilov,
+  Title                    = {Effect of hydrostatic pressure on magnetic susceptibility of transition metals},
+  Author                   = {Panfilov, A. S.},
+  Note                     = {PhD},
+  Type                     = {Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)},
+  Year                     = {1973},
+
+  Timestamp                = {1973.mm.dd}
+}
+

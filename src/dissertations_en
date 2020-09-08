@@ -47,14 +47,14 @@
 <thead><tr><th width="16%">Author</th><th width="58%">Title</th><th width="5%">Year</th><th width="21%">Academic degree</th></tr></thead>
 <tbody>
 
-<!-- ***************************************************************************************************************************************** -->
-<!-- ***************************************************************************************************************************************** -->
-<!-- ***************************************************************************************************************************************** -->
-<!-- ***************************************************************************************************************************************** -->
-<!-- ***************************************************************************************************************************************** -->
-    
+<!-- **************************************************************************************************************************************** -->
+<!-- **************************************************************************************************************************************** -->
+<!-- **************************************************************************************************************************************** -->
+<!-- **************************************************************************************************************************************** -->
+<!-- **************************************************************************************************************************************** -->
+
 <tr id="drsc_grechnev" class="entry">
-	<td>Grechnev, G.E.</td>
+	<td>Grechnev G.E.</td>
 	<td>Electronic structure of <i>d</i>- and <i>f</i>-metal compounds: effects of hybridisation and spin polarization</td>
 	<td>2008</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -65,7 +65,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="drsc_sirenko" class="entry">
-	<td>Sirenko, V.A.</td>
+	<td>Sirenko V.A.</td>
 	<td>Hysteresis and magnetostriction effects in heterogeneity compounds at low temperatures</td>
 	<td>1999</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -76,7 +76,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="drsc_fil" class="entry">
-	<td>Fil, V.D.</td>
+	<td>Fil V.D.</td>
 	<td>The interaction of high-frequency sound waves with electrons in metals</td>
 	<td>1983</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -86,9 +86,31 @@
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
 </tr>
-<tr id="phd_gaydamak" class="entry">
-	<td>Gaydamak, T.N.</td>
-	<td>Elastic characteristics of FeSe, SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>, NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> and acoustoelectric transformation in them</td>
+<tr id="phd_kolodiazhna" class="entry">
+	<td>Kolodiazhna M.P.</td>
+	<td>Magnetoelastic and piezomagnetoelectric effects in the multiferroics Nd<sub>0.9</sub>Dy<sub>0.1</sub>Fe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>, SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> and LiCoPO<sub>4</sub></td>
+	<td>2020</td>
+<!-- 	<td>&nbsp;</td> -->
+
+	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
+
+<!-- 	<td>phdthesis</td> -->
+<!-- 	<td>&nbsp;</td> -->
+</tr>
+<tr id="phd_zhekov" class="entry">
+	<td>Zhekov K.R.</td>
+	<td>Magneto-elastic effects in rare-earth borocarbides and ferroborates</td>
+	<td>2020</td>
+<!-- 	<td>&nbsp;</td> -->
+
+	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
+
+<!-- 	<td>phdthesis</td> -->
+<!-- 	<td>&nbsp;</td> -->
+</tr>
+<tr id="phd_bondar" class="entry">
+	<td>Bondar I.S.</td>
+	<td>Effect of the crystal structure inhomogeneities on electronic properties of a hexagonal modification of niobium dichalcogenide and graphene</td>
 	<td>2019</td>
 <!-- 	<td>&nbsp;</td> -->
 
@@ -98,7 +120,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_kobzar" class="entry">
-	<td>Kobzar, I.P.</td>
+	<td>Kobzar I.P.</td>
 	<td>Magnetoelastic properties of narrow-band systems based on <i>4f</i> and <i>3d</i> metals</td>
 	<td>2018</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -109,7 +131,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_lyogenkaya" class="entry">
-	<td>Lyogenkaya, A.A.</td>
+	<td>Lyogenkaya A.A.</td>
 	<td>Manifestations of the features of the electronic structure in the magnetic and superconducting properties of layered compounds of transition metals with metalloids</td>
 	<td>2017</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -120,7 +142,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_fedorchenko" class="entry">
-	<td>Fedorchenko, A.V.</td>
+	<td>Fedorchenko A.V.</td>
 	<td>Magnetic and magnetoelastic properties of anisotropic metallic systems based on <i>d</i>-elements</td>
 	<td>2012</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -131,7 +153,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_zvyagina" class="entry">
-	<td>Zvyagina, G.A.</td>
+	<td>Zvyagina G.A.</td>
 	<td>Elastic properties of ferroelastics in the vicinity of phase transitions</td>
 	<td>2004</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -141,30 +163,8 @@
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
 </tr>
-<tr id="phd_desnenko" class="entry">
-	<td>Desnenko, V.A.</td>
-	<td>Investigation of low temperature deformation of metals and alloys in magnetic fields</td>
-	<td>1986</td>
-<!-- 	<td>&nbsp;</td> -->
-
-	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
-
-<!-- 	<td>phdthesis</td> -->
-<!-- 	<td>&nbsp;</td> -->
-</tr>
-<tr id="phd_burma" class="entry">
-	<td>Burma, N.G.</td>
-	<td>The interaction of high-frequency elastic waves with electrons in gallium in a magnetic field</td>
-	<td>1985</td>
-<!-- 	<td>&nbsp;</td> -->
-
-	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
-
-<!-- 	<td>phdthesis</td> -->
-<!-- 	<td>&nbsp;</td> -->
-</tr>
 <tr id="phd_grechnev" class="entry">
-	<td>Grechnev, G.E.</td>
+	<td>Grechnev G.E.</td>
 	<td>Effect of temperature, impurities and pressure on the energy spectrum and magnetism in the hexagonal metals</td>
 	<td>1982</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -175,7 +175,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_panfilov" class="entry">
-	<td>Panfilov, A.S.</td>
+	<td>Panfilov A.S.</td>
 	<td>Effect of hydrostatic pressure on magnetic susceptibility of transition metals</td>
 	<td>1973</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -185,7 +185,7 @@
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
 </tr>
-
+<!-- -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
 <!-- ***************************************************************************************************************************************** -->
@@ -215,7 +215,7 @@
 <!-- ***************************************************************************************************************************************** -->
 
 <tr id="drsc_svechkarev" class="entry">
-	<td>Svechkarev, I.V.</td>
+	<td>Svechkarev I.V.</td>
 	<td>Investigations of weak magnetism of electrons in metallic systems</td>
 	<td>1973</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -226,7 +226,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="drsc_eremenko" class="entry">
-	<td>Eremenko, V.V.</td>
+	<td>Eremenko V.V.</td>
 	<td>Spectral and magneto-optical study of antiferromagnetic insulators</td>
 	<td>1966</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -236,8 +236,19 @@
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
 </tr>
+<tr id="phd_gaydamak" class="entry">
+	<td>Gaydamak T.N.</td>
+	<td>Elastic characteristics of FeSe, SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>, NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> and acoustoelectric transformation in them</td>
+	<td>2019</td>
+<!-- 	<td>&nbsp;</td> -->
+
+	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
+
+<!-- 	<td>phdthesis</td> -->
+<!-- 	<td>&nbsp;</td> -->
+</tr>
 <tr id="phd_baranovsky" class="entry">
-	<td>Baranovsky, A.E.</td>
+	<td>Baranovsky A.E.</td>
 	<td>Electronic energy spectrum and the diamagnetism of metallic systems with a cubic structure Cu<sub>3</sub>Au and UB<sub>12</sub></td>
 	<td>2010</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -248,7 +259,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_ibulaev" class="entry">
-	<td>Ibulaev, V.V.</td>
+	<td>Ibulaev V.V.</td>
 	<td>Structural studies dichalcogenide niobium near the low-temperature phase transitions</td>
 	<td>2009</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -259,7 +270,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_logosha" class="entry">
-	<td>Logosha, A.V.</td>
+	<td>Logosha A.V.</td>
 	<td>Electronic structure of transition and rare earth metals hexaborides</td>
 	<td>2009</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -270,7 +281,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_shvedun" class="entry">
-	<td>Shvedun, M.Y.</td>
+	<td>Shvedun M.Y.</td>
 	<td>Structural studies of perovskite systems in the region of low temperature phase transitions</td>
 	<td>2007</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -281,7 +292,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_shabakayeva" class="entry">
-	<td>Shabakayeva, Y.A.</td>
+	<td>Shabakayeva Y.A.</td>
 	<td>Hysteresis and magnetostriction effects in niobium diselenide single crystals</td>
 	<td>2005</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -292,7 +303,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_savchenko" class="entry">
-	<td>Savchenko, N.V.</td>
+	<td>Savchenko N.V.</td>
 	<td>Anisotropy of conduction electron <i>g</i>-factors in transition metals</td>
 	<td>1992</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -302,8 +313,19 @@
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
 </tr>
+<tr id="phd_desnenko" class="entry">
+	<td>Desnenko V.A.</td>
+	<td>Investigation of low temperature deformation of metals and alloys in magnetic fields</td>
+	<td>1986</td>
+<!-- 	<td>&nbsp;</td> -->
+
+	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
+
+<!-- 	<td>phdthesis</td> -->
+<!-- 	<td>&nbsp;</td> -->
+</tr>
 <tr id="phd_khotkevich" class="entry">
-	<td>Khotkevich, V.V.</td>
+	<td>Khotkevich V.V.</td>
 	<td>Electronic structure and de Haas - van Alphen effect in Gd-Mg compounds</td>
 	<td>1986</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -313,8 +335,19 @@
 <!-- 	<td>phdthesis</td> -->
 <!-- 	<td>&nbsp;</td> -->
 </tr>
+<tr id="phd_burma" class="entry">
+	<td>Burma N.G.</td>
+	<td>The interaction of high-frequency elastic waves with electrons in gallium in a magnetic field</td>
+	<td>1985</td>
+<!-- 	<td>&nbsp;</td> -->
+
+	<td>Candidate of Sciences<br>(CSc. / Dr.rer.nat., PhD)&nbsp;</td>
+
+<!-- 	<td>phdthesis</td> -->
+<!-- 	<td>&nbsp;</td> -->
+</tr>
 <tr id="phd_konotop" class="entry">
-	<td>Konotop, D.A.</td>
+	<td>Konotop D.A.</td>
 	<td>Self-noises, sensitivity and applications of high frequency SQUIDs</td>
 	<td>1984</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -325,7 +358,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_sereda" class="entry">
-	<td>Sereda, Y.P.</td>
+	<td>Sereda Y.P.</td>
 	<td>Magnetic susceptibility peculiarities in simple divalent metals</td>
 	<td>1980</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -336,7 +369,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_vorontsov" class="entry">
-	<td>Vorontsov, S.A.</td>
+	<td>Vorontsov S.A.</td>
 	<td>Properties of conduction electrons magnetism</td>
 	<td>1979</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -347,7 +380,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_poltoratsky" class="entry">
-	<td>Poltoratsky, V.I.</td>
+	<td>Poltoratsky V.I.</td>
 	<td>Properties of orbital magnetism in metals and alloys</td>
 	<td>1977</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -358,7 +391,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_zhukov" class="entry">
-	<td>Zhukov, V.V.</td>
+	<td>Zhukov V.V.</td>
 	<td>NMR in cadmium alloys</td>
 	<td>1975</td>
 <!-- 	<td>&nbsp;</td> -->
@@ -369,7 +402,7 @@
 <!-- 	<td>&nbsp;</td> -->
 </tr>
 <tr id="phd_pluzhnikov" class="entry">
-	<td>Pluzhnikov, V.B.</td>
+	<td>Pluzhnikov V.B.</td>
 	<td>Effect of hydrostatic pressure on the Fermi surface of transition metals</td>
 	<td>1974</td>
 <!-- 	<td>&nbsp;</td> -->

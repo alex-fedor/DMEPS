@@ -1,0 +1,49 @@
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-75494628-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-75494628-2');
+</script>
+
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="author" content="Dr.rer.nat. Alexey V. Fedorchenko" >
+   <meta name="generator" content="GNU bash-4.4.12(1)" >
+   <meta name="Description" content="Department of Magnetic and Elastic Properties of Solids - staff, scientific fields, achived scientific results, international cooperation">
+   <meta name="Classification" content="science, physics, magnetism, metal, alloy">
+   <meta name="KeyWords" content="magnetism,magnetic susceptibility,diamagnetism,pressure effects,FP-LMTO,LMTO-ASA,band structure,density of states,pseudopotentials,de Haas - van Alphen effect,X-rays,magnetostriction,transition metals,rare earths,oxides,borides,actinides">
+
+   <title>ILTPE - Department of Magnetic and Elastic Properties of Solids</title>
+
+   <link rel="shortcut icon" href="../design/iltpe_logo_en_static.png" type="image/png">
+   <link rel="stylesheet" type="text/css" href="../styles/reset.css">
+   <link rel="stylesheet" type="text/css" href="../styles/style.css">
+   <link rel="stylesheet" type="text/css" href="../styles/table-disser.css">
+   <link rel="stylesheet" type="text/css" href="../styles/table-publications.css">
+   <link rel="stylesheet" type="text/css" href="../styles/table-staff.css">
+
+   <script src="../scripts/quick-search-publications.js"></script>
+
+</head>
+
+<body>
+ 
+<div class="header-container">
+
+<div class="header-logo">
+<a href="http://www.ilt.kharkov.ua/bvi/index_e.html" target="blank">
+<img SRC="../design/iltpe_logo_en.gif" ALT="Homepage ILTPE">
+</a>
+</div> <!-- header-logo -->
+
+<div class="header-text">
+<br>
+<header>ILTPE - B.Verkin Institute for Low Temperature Physics and Engineering of the NAS of Ukraine</header>
+<h1>DEPARTMENT OF MAGNETIC AND ELASTIC PROPERTIES OF SOLIDS</h1>
+</div> <!-- header-text -->
+
+<div class="controls-container">
+

@@ -1,0 +1,191 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Phdthesis{drsc_svechkarev,
+  Title                    = {Дослідження слабкого магнетизму електронів металевих систем},
+  Author                   = {Свєчкарьов, І. В.},
+  Note                     = {DrSc},
+  Type                     = {Доктор фіз.-мат. наук<br>(д.ф.-м.н.)},
+  Year                     = {1973},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{drsc_eremenko,
+  Title                    = {Спектральні і магнітооптичні дослідження антиферомагнітних діелектриків},
+  Author                   = {Єременко, В. В.},
+  Note                     = {DrSc},
+  Type                     = {Доктор фіз.-мат. наук<br>(д.ф.-м.н.)},
+  Year                     = {1966},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_gaydamak,
+  Title                    = {Пружні характеристики FeSe, SmFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub>, NdFe<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> та акустоелектрична трансформація в них},
+  Author                   = {Гайдамак, Т. М.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {2019},
+
+  Owner                    = {fedor},
+  Timestamp                = {2019.02.13}
+}
+
+@Phdthesis{phd_baranovsky,
+  Title                    = {Електронний енергетичний спектр і діамагнетизм металевих систем з кубічними структурами Cu<sub>3</sub>Au и UB<sub>12</sub>},
+  Author                   = {Барановський, А. Є},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {2010},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_ibulaev,
+  Title                    = {Структурні дослідження дихалькогеніду ніобію поблизу низькотемпературних фазових переходів},
+  Author                   = {Ібулаєв, В. В.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {2009},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_logosha,
+  Title                    = {Електронна структура гексаборидів перехідних та рідкісноземельних металів},
+  Author                   = {Логоша, О. В.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {2009},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_shvedun,
+  Title                    = {Структурні дослідження перовскітоподібних систем в області низькотемпературних фазових переходів},
+  Author                   = {Шведун, М. Ю.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {2007},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_shabakayeva,
+  Title                    = {Гістерезисні і магнітострикційні ефекти в монокристалах діселеніду ніобію},
+  Author                   = {Шабакаєва, Ю. А.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {2005},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_savchenko,
+  Title                    = {Анізотропія <i>g</i>-факторів електронів провідності перехідних металів},
+  Author                   = {Савченко, Н. В.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1992},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_khotkevich,
+  Title                    = {Дослідження електронної структури інтерметалевих сполук в системі кадмій-магній},
+  Author                   = {Хоткевич, В. В.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1986},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_burma,
+  Title                    = {Взаємодія високочастотних пружних хвиль з електронами в галії в магнітному полі},
+  Author                   = {Бурма, М. Г.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1985},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_konotop,
+  Title                    = {Власні шуми, чутливість і застосування ВЧ сквідів},
+  Author                   = {Конотоп, Д. А.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1984},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_sereda,
+  Title                    = {Особливості магнітної сприйнятливості простих двохвалентних металів},
+  Author                   = {Середа, Ю. П.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1980},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_vorontsov,
+  Title                    = {Властивості магнетизму електронів провідності},
+  Author                   = {Воронцов, С. А.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1979},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_poltoratsky,
+  Title                    = {Властивості орбітального магнетизму металів і сплавів},
+  Author                   = {Полторацький, В. І.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1977},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_zhukov,
+  Title                    = {Ядерний магнітний резонанс в сплавах кадмію},
+  Author                   = {Жуков, В. В.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1975},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+
+@Phdthesis{phd_pluzhnikov,
+  Title                    = {Вплив гідростатичного тиску на поверхню Фермі перехідних металів},
+  Author                   = {Плужніков, В. Б.},
+  Note                     = {PhD},
+  Type                     = {Кандидат фіз.-мат. наук<br>(к.ф.-м.н.)},
+  Year                     = {1974},
+
+  Owner                    = {fedor},
+  Timestamp                = {2018.02.15}
+}
+

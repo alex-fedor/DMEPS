@@ -1,0 +1,77 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Article{panfilov2020,
+  Title                    = {The effect of temperature and pressure on the spin state of cobalt ions in La<sub>1-x</sub>Pr<sub>x</sub>CoO<sub>3</sub> compounds},
+  Author                   = {Panfilov, A. S. and Lyogenkaya, A. A. and Grechnev, G. E. and Pashchenko, V. A. and Vasylechko, L. O. and Hreb, V. M. and Kovalevsky, A. V.},
+  Journal                  = {Low Temperature Physics},
+  Year                     = {2020},
+  Number                   = {6},
+  Pages                    = {606-614},
+  Volume                   = {46},
+
+  Abstract                 = {The crystal structure, magnetic susceptibility as a function of temperature chi(T) in the range 5-400 K, and the hydrostatic pressure effect on chi at fixed temperaturesT = 78, 150, and 300 K, were studied in perovskite-like compounds La1-xPrxCoO3(x = 0, 0.1, 0.2, and 0.3). The obtained experimental data were analyzed using a two-level model with an energy gap Delta between the ground and excited states of the system that correspond to the spin valuesS = 0 and 1 for Co(3+)ions. In this model, the magnetism of Co(3+)ions, which determines the features of the
+ chi (T) dependence, is ensured by the temperature-induced change in the population of the excited state. The anomalously large magnitude of the observed pressure effect is associated with the high sensitivity of Delta to changes in the lattice volume, under the influence of both hydrostatic and chemical pressures, when La is replaced by the smaller Pr ion in the considered system. Theoretical calculations of the electronic structure for the boundary compounds LaCoO(3)and PrCoO(3)confirm the significant increase in the excitation energy Delta with a decrease in the lattice volume, and also support the scenario of a spin crossover between the states of cobalt ions with low and intermediate spin values.},
+  Doi                      = {10.1063/10.0001244},
+  Eissn                    = {1090-6517},
+  ISSN                     = {1063-777X},
+  Orcid-numbers            = {Vasylechko, Leonid/0000-0003-4231-9186},
+  Researcherid-numbers     = {Vasylechko, Leonid/R-4447-2017},
+  Timestamp                = {2020.06.01*},
+  Unique-id                = {ISI:000544655500008}
+}
+
+@Article{Romaka_2020,
+  Title                    = {Structure and properties of MgB<sub>2</sub> bulks: <i>ab-initio</i> simulations compared to experiment},
+  Author                   = {Romaka, V. V. and Prikhna, T. A. and Eisterer, M. and Shapovalov, A. P. and Goldacker, W. and Moshchil, V. E. and Kozyrev, A. and Rindfleisch, M. and Tompsic, M. and Hellstrom, E. E. and Grechnev, G. E. and Zhang, V. Sh and Yang, F. and Li, Ch},
+  Journal                  = {IOP Conference Series: Materials Science and Engineering},
+  Year                     = {2020},
+  Pages                    = {012020},
+  Volume                   = {756},
+
+  Abstract                 = {Analysis of XRD patterns by Rietveld refinement has been shown that the main phase of superconducting MgB2-based bulk materials (with high level of superconducting characteristics) has AlB2 type structure and near MgB1.8-1.68O0.2-0.32 stoichiometry. The materials demonstrated the critical current densities up to 0.9 – 0.4 MA/cm2 j c (at 0 - 1 T, 20 K); up to 15 T B c2 (at 22.5 K) and Birr (at 18 K). The ab-initio simulation confirmed (1) benefits in binding energy and enthalpy of formation if stoichiometry of the solid solution is near MgB1.75O0.25; (2) energetic advantage in case if impurity oxygen present only in each second boron plane of MgB2 cell while the first boron plane of the same cell stays pristine and location of substituted oxygen atoms in the nearby positions. Besides, the results of ab-initio modeling allow explanation of the tendency towards segregation of O-impurity in MgB2 structure during synthesis or sintering, and formation of Mg-B-O inclusions or nanolayers (with MgO type of structure) which effect pinning. Calculated transition temperatures, Tc, for MgB1.75O0.25 occurred to be 23.3 K, while for MgB2 it was 21.13 K only. Experimental Tc of the bulk materials was 35.7-38.2 K.},
+  Doi                      = {10.1088/1757-899x/756/1/012020},
+  Publisher                = {{IOP} Publishing},
+  Timestamp                = {2020.06.01*}
+}
+
+@Article{gospodarev2020ii,
+  Title                    = {Low dimensional features of graphene nanostructure stability and vibrational characteristics (Review)},
+  Author                   = {Gospodarev, I. A. and Sirenko, V. A. and Syrkin, E. S. and Feodosyev, S. B. and Minakova, K. A.},
+  Journal                  = {Low Temperature Physics},
+  Year                     = {2020},
+  Number                   = {3},
+  Pages                    = {232-257},
+  Volume                   = {46},
+
+  Abstract                 = {The densities of phonon states and their related vibrational thermodynamic characteristics, such as heat capacity, root-mean-square displacement of atoms, and thermal expansion, are calculated and analyzed at the microscopic level for graphite and graphene nanoformations, such as nanofilms and nanotubes. The simulation model is based on experimental data without a priori assumptions as to the nature and potentials of interatomic interactions, and is compared to them only after, which yields a good agreement. The quasi-flexural and torsional modes, which are inherent to graphene nanotubes, are considered and their contribution to the low temperature vibrational characteristics are analyzed. The impact that extended defects, such as graphite intercalation with transition metals, step-edges on graphene nanofilms, and edges of a graphene single layer on a substrate, have on the phonon spectrum and vibrational characteristics is analyzed. The calculated results are compared to the experimental data.},
+  Doi                      = {10.1063/10.0000706},
+  Eissn                    = {1090-6517},
+  ISSN                     = {1063-777X},
+  Orcid-numbers            = {Minakova, Kseniia/0000-0002-8869-1082
+ Sirenko, Valentyna/0000-0002-1143-9911},
+  Researcherid-numbers     = {Minakova, Kseniia/AAM-5996-2020
+ },
+  Timestamp                = {2020.03.01*},
+  Unique-id                = {ISI:000524512300004}
+}
+
+@Article{gospodarev2020,
+  Title                    = {The effect of size quantization on the electron spectra of graphene nanoribbons},
+  Author                   = {Gospodarev, I. A. and Grishaev, V. I. and Manzhelii, E. V. and Sirenko, V. A. and Syrkin, E. S. and Feodosyev, S. B.},
+  Journal                  = {Low Temperature Physics},
+  Year                     = {2020},
+  Number                   = {2},
+  Pages                    = {187-194},
+  Volume                   = {46},
+
+  Abstract                 = {The total electron densities of states for graphene nanoribbons with edges of different chirality, as well as the electron local densities of states for individual atoms in these nanoribbons, are calculated and analyzed. There are sharp resonance peaks near the Fermi level in the total electron densities of states of graphene nanoribbons with zigzag edges, which emerge only in the local densities of atoms from the sublattice that goes directly to the nearest edge (i.e., whose atoms have dangling bonds). Semiconducting gaps appear in the spectra of graphene nanobands with armchair chirality edges having a number of constituent atomic lines that is either a multiple of three, or gives a remainder of one when divided by three. The width of this gap only depends on the width of the nanoribbon, and is the same for all its atoms. The electron spectra of graphene nanoribbons with armchair-chirality edges have a metallic behavior if the number of atomic lines gives a remainder of two when divided by three. However, semiconducting gaps still manifest on the local densities of the atoms belonging to some lines of such nanoribbons.},
+  Doi                      = {10.1063/10.0000539},
+  Eissn                    = {1090-6517},
+  ISSN                     = {1063-777X},
+  Orcid-numbers            = {Sirenko, Valentyna/0000-0002-1143-9911},
+  Timestamp                = {2020.02.01*},
+  Unique-id                = {ISI:000525444100015}
+}
+

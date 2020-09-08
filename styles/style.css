@@ -199,6 +199,10 @@ body b{
     padding-left:5%;
     padding-right:2%;
 }
+.page-home a{
+	text-decoration: none;
+	color:blue;
+}
 /* STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === STAFF === */
 
 .page-staff{
@@ -244,6 +248,10 @@ body b{
     padding-left:2%;
     padding-right:2%;
 }
+.page-research a{
+	text-decoration: none;
+	color:blue;
+}
 
 /* PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === PUBLICATIONS === */
 
@@ -264,6 +272,31 @@ body b{
 }
 .page-publications p{
     text-align:justify;
+}
+.page-publications p[align="right"]{
+    text-align:right;
+    font-size:14;
+    font-style: italic;
+}
+#blink {
+	-webkit-animation: blink 2s linear infinite; 
+	animation: blink 1s linear infinite; 
+	/*font-weight: bold;*/ 
+	color: color: #FF0000; 
+}
+@-webkit-keyframes blink { 
+	  0% { color: #FF0000; }
+	 50% { color: #C0C0C0; }
+	100% { color: #FF0000; }
+}
+@keyframes blink {  
+	  0% { color: #FF0000; }
+	 50% { color: #C0C0C0; }
+	100% { color: #FF0000; } 
+}
+.page-publications a{
+	text-decoration: none;
+	color:blue;
 }
 
 /* DISSERTATIONS === DISSERTATIONS === DISSERTATIONS === DISSERTATIONS === DISSERTATIONS === DISSERTATIONS */
@@ -310,6 +343,10 @@ body b{
     padding-left:2%;
     padding-right:2%;
 }
+.page-collaboration a{
+	text-decoration: none;
+	color:blue;
+}
 
 /* PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO === PHOTO */
 
@@ -331,6 +368,10 @@ body b{
 }
 .page-photo p{
     text-align:justify;
+}
+.page-photo a{
+	text-decoration: none;
+	color:blue;
 }
 .photo-frame{
 /*	color:#777;*/
@@ -359,7 +400,10 @@ body b{
 .page-photo-history p{
     text-align:justify;
 }
-
+.page-photo-history a{
+	text-decoration: none;
+	color:blue;
+}
 
 /* CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS === CONTACTS */
 
@@ -378,6 +422,10 @@ body b{
     color:#000;
     text-align:center;    
     font-size:x-large;
+}
+.page-contacts a{
+	text-decoration: none;
+	color:blue;
 }
 
 /* GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS === GROUPS */
@@ -412,4 +460,8 @@ body b{
 /*    padding-bottom:2%;*/
     padding-left:5%;
     padding-right:5%;
+}
+.page-group a{
+	text-decoration: none;
+	color:blue;
 }

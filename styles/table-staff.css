@@ -66,7 +66,7 @@ a.button-gscholarID {
 a.button-gscholarID:hover { background: black; } /* при наведении курсора мышки */
 
 a.button-researcherID {
-  background: #323232; /* фон кнопки */  
+  background: #515151; /* фон кнопки - был #323232*/  
   #color: #ff8200; /* цвет текста */
   font-size: 65%;
   text-decoration: none; /* убирать подчёркивание у ссылок */

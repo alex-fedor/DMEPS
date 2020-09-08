@@ -56,9 +56,9 @@
 		<a href="../media/files/cv/cv_sirenko.pdf" target="blank">Валентина А. Сіренко</a><br>
 		<i>sire<span id="fela">eghataruslpost</span>nko@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
      	<a href="https://www.scopus.com/authid/detail.uri?authorId=7003894552" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
-<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://publons.com/researcher/3358716/valentyna-sirenko/" target="blank" class="button-researcherID"><font color="#fb7f02">Researcher</font><font color="#fefefe">ID</font></a>
      	<a href="https://scholar.google.com/citations?user=sAtHBesAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
-<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+		<a href="https://orcid.org/0000-0002-1143-9911" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
 	</td>
 	<td>
 		Керівник <a href="../ua/g_xray.html" target="blank">групи</a>,<br>
@@ -73,12 +73,13 @@
 		<a href="../media/files/cv/cv_bondar.pdf" target="blank">Іван С. Бондар</a><br>
 		<i>ibond<span id="fela">eghataruslpost</span>ar@il<span id="fela">eghataruslpost</span>t.khar<span id="fela">eghataruslpost</span>kov.ua</i><br>
      	<a href="https://www.scopus.com/authid/detail.uri?authorId=57069818400" target="blank" class="button-scopusID"><b><font color="#ff8200">Scopus</font></b></a>		
-<!-- 	<a href="#" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a> -->
+     	<a href="https://publons.com/researcher/3345707/ivan-bondar/" target="blank" class="button-researcherID"><font color="#fb7f02">Researcher</font><font color="#fefefe">ID</font></a>
      	<a href="https://scholar.google.com/citations?user=3hyP5xQAAAAJ&hl=en" target="blank" class="button-gscholarID"><b><font color="#4285f4">G</font><font color="#b5b5b5">Scholar</font></b></a>
-<!-- 	<a href="#" target="blank" class="button-researcherID"><font color="#f58634">Researcher</font><font color="#fefefe">ID</font></a> -->
+		<a href="https://orcid.org/0000-0002-0702-7260" target="blank" class="button-orcID"><b><font color="#a7a9ac">ORC</font><font color="#a6ce39">ID</font></b></a>
 	</td>
 	<td>
 		Молодший науковий співробітник,<br>
+		Кандидат фіз.-мат. наук
 	</td>
 </tr>
 
